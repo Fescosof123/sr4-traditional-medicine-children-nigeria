@@ -1,0 +1,10 @@
+"variable","level","k","n","pooled","lcl","ucl"
+"age_group","Not stated",13,2917,39.8,20.9,62.3
+"age_group","Under 5 years only",87,66412,16.7,12,22.8
+"age_group","Includes children aged 5 years or older",34,12380,21.4,12.6,34
+"recall_group","Usual practice or ever",53,26264,33.9,23.4,46.3
+"recall_group","Specific illness episode",60,35738,13.2,9.2,18.5
+"recall_group","Other or not stated",21,19707,12.5,6.2,23.7
+"unit_group","Caregivers",72,42761,23.9,16.9,32.8
+"unit_group","Children or episodes",54,22881,16.2,10.4,24.2
+"unit_group","Not stated",8,16067,10,5.5,17.4

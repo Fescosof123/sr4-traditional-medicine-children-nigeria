@@ -1,0 +1,29 @@
+condition,n_studies,rec_ids
+fever/malaria,57,AJOL_0011; AJOL_0031; AJOL_0139; AJOL_0142; Embase_0471; Embase_0561; Embase_0610; Embase_1152; Embase_1156; Embase_1256; Embase_1718; GIM_0002; GIM_0005; GIM_0013; GIM_0017; GIM_0030; GIM_0042; GoogleScholar_0001; GoogleScholar_0009; GoogleScholar_0011; GoogleScholar_0015; GoogleScholar_0016; GoogleScholar_0019; GoogleScholar_0020; GoogleScholar_0025; GoogleScholar_0031; GoogleScholar_0041; GoogleScholar_0043; GoogleScholar_0054; GoogleScholar_0064; GoogleScholar_0240; OpenAlex_grey_0008; OpenAlex_grey_0014; PubMed_0011; PubMed_0063; PubMed_0064; PubMed_0070; PubMed_0192; PubMed_0255; PubMed_0267; PubMed_0295; PubMed_0328; PubMed_0469; PubMed_0485; PubMed_0501; PubMed_0516; PubMed_0567; PubMed_0575; PubMed_0608; PubMed_0645; PubMed_0683; PubMed_0704; PubMed_0727; PubMed_0783; PubMed_0790; PubMed_0795; PubMed_0843
+diarrhoea/gastroenteritis,29,AJOL_0022; AJOL_0051; AJOL_0085; AJOL_0167; Embase_0471; Embase_1160; Embase_1384; GIM_0005; GIM_0030; GoogleScholar_0001; GoogleScholar_0011; GoogleScholar_0015; GoogleScholar_0016; GoogleScholar_0020; GoogleScholar_0031; GoogleScholar_0043; GoogleScholar_0064; GoogleScholar_0120; GoogleScholar_0206; OpenAlex_grey_0049; PubMed_0108; PubMed_0223; PubMed_0420; PubMed_0440; PubMed_0516; PubMed_0598; PubMed_0611; PubMed_0790; PubMed_0853
+general/unspecified childhood illness or prevention,19,AJOL_0008; AJOL_0015; AJOL_0094; AJOL_0111; AJOL_0157; AJOL_0226; Embase_0470; Embase_0618; GoogleScholar_0001; GoogleScholar_0014; GoogleScholar_0096; GoogleScholar_0102; PubMed_0108; PubMed_0132; PubMed_0182; PubMed_0208; PubMed_0471; PubMed_0833; PubMed_0843
+cough/ARI/pneumonia,18,AJOL_0018; Embase_0471; GIM_0005; GoogleScholar_0011; GoogleScholar_0015; GoogleScholar_0016; GoogleScholar_0020; GoogleScholar_0025; GoogleScholar_0031; OpenAlex_grey_0049; PubMed_0182; PubMed_0351; PubMed_0450; PubMed_0478; PubMed_0501; PubMed_0516; PubMed_0520; PubMed_0790
+convulsion/febrile seizure,17,AJOL_0044; Embase_0471; Embase_1824; GIM_0030; GoogleScholar_0011; GoogleScholar_0016; GoogleScholar_0020; GoogleScholar_0025; GoogleScholar_0064; PubMed_0532; PubMed_0542; PubMed_0545; PubMed_0548; PubMed_0566; PubMed_0750; PubMed_0783; PubMed_0795
+umbilical cord care,13,AJOL_0075; AJOL_0218; Embase_0009; Embase_0293; Embase_0471; Embase_0979; GIM_0040; GoogleScholar_0025; GoogleScholar_0157; Other_0001; PubMed_0208; PubMed_0387; PubMed_0563
+abdominal pain/colic/other GI symptoms,10,Embase_1256; GIM_0005; GIM_0030; GoogleScholar_0011; GoogleScholar_0016; GoogleScholar_0020; GoogleScholar_0025; PubMed_0531; PubMed_0566; PubMed_0697
+skin conditions,10,AJOL_0067; Embase_0401; GIM_0005; GIM_0030; GoogleScholar_0011; GoogleScholar_0016; GoogleScholar_0020; GoogleScholar_0025; GoogleScholar_0040; PubMed_0501
+jaundice (mostly neonatal),9,AJOL_0075; AJOL_0208; Embase_0893; GIM_0030; GoogleScholar_0020; GoogleScholar_0167; PubMed_0305; PubMed_0481; PubMed_0620
+"other (insomnia, weight, asthma, epistaxis, dental, tetanus, etc.)",9,Embase_0432; GIM_0005; GIM_0030; GoogleScholar_0011; PubMed_0348; PubMed_0399; PubMed_0501; PubMed_0705; PubMed_0849
+measles,8,Embase_0471; GIM_0005; GoogleScholar_0016; GoogleScholar_0020; GoogleScholar_0025; GoogleScholar_0036; PubMed_0108; PubMed_0790
+eye conditions,5,GoogleScholar_0025; GoogleScholar_0040; GoogleScholar_0075; PubMed_0208; PubMed_0654
+sickle cell disease,5,Embase_0750; PubMed_0079; PubMed_0275; PubMed_0401; PubMed_0705
+epilepsy,4,GoogleScholar_0034; PubMed_0219; PubMed_0524; PubMed_0705
+"injuries, bites and musculoskeletal",4,AJOL_0249; GIM_0023; PubMed_0395; PubMed_0403
+poisoning,4,AJOL_0087; Embase_1077; GoogleScholar_0184; PubMed_0566
+teething,4,Embase_0719; GoogleScholar_0020; GoogleScholar_0025; GoogleScholar_0064
+ear conditions,3,Embase_0471; GoogleScholar_0025; PubMed_0399
+piles/haemorrhoids (jedi-jedi),3,GoogleScholar_0016; GoogleScholar_0020; GoogleScholar_0025
+sunken fontanelle (oka ori),3,GoogleScholar_0016; GoogleScholar_0020; GoogleScholar_0025
+anaemia,2,Embase_1152; PubMed_0074
+cancer,2,AJOL_0025; Embase_1187
+congenital anomalies,2,GoogleScholar_0011; PubMed_0761
+enuresis,2,AJOL_0272; Other_0005
+mumps,2,Embase_0471; GoogleScholar_0025
+worms,2,AJOL_0169; GoogleScholar_0025
+HIV,1,GIM_0044
+neuropsychiatric disorders,1,PubMed_0538

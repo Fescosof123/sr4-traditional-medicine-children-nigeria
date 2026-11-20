@@ -1,0 +1,99 @@
+rec_id,study,concurrent_use,disclosure_to_health_worker,adverse_events_attributed_to_TM,concurrent_quantified_for_TM_users,disclosure_quantified,adverse_events_reported_among_TM_users
+AJOL_0015,Ojinnaka 2014,35/140 (25.0%) households combined health facility with unorthodox methods,,,Y,,
+AJOL_0018,Osarogiagbon 2017,"Not reported as TM-specific; multiple responses: 297/346 (85.8%) buy drugs from chemist, 121/346 (35.0%) visit health facility",,,N,,
+AJOL_0022,Mustapha 2008,"85/200 used herbalists side by side with orthodox medical care, especially when diarrhoea persisted",,,Y,,
+AJOL_0025,Brown 2017,,,No significant association with metastatic disease; median symptom-to-diagnosis interval 18.2 weeks in users vs 13.0 weeks in non-users (p=0.228); median 2 days spent at alternative centres,,,N (not attributed/not TM-specific)
+AJOL_0031,Ibadin 2012,,,"Traditional healer care and scarification more frequent among children who developed cerebral malaria (not significant for healer, p=0.068)",,,Y
+AJOL_0051,Oyefabi 2023,"Not cross-tabulated; ORS reported by 241/244 (98.8%) and patent medicine vendor drugs by 244/244, so herbal users largely also used conventional treatment",,,N,,
+AJOL_0075,Igboanusi 2019,Multiple responses: 39/89 (43.8%) took baby to hospital and 32/89 (36.0%) used herbs; overlap not reported,,,N,,
+AJOL_0094,Akodu 2024,"Not reported for herbal users; 38/75 (50.7%) used any home remedy, mostly paracetamol 16 (21.3%), antibiotics 8 (10.7%)",,,N,,
+AJOL_0142,Onyeneho 2006,FGD: herbalist used when chemist/hospital drugs fail; herbs given after medical treatment tried (qualitative),,,N,,
+AJOL_0167,Ojuawo 2003,Not reported for TM users; 76.7% (1993/94) and 66.1% (1997/98) received antidiarrhoeal or other drugs before presentation,,,N,,
+AJOL_0169,Ihejirika 2023,Not reported directly; 696/956 practised deworming with anthelmintics; 518 used plant materials,,,N,,
+AJOL_0208,Farouk 2017,,,Not attributed; TM recorded as possible icterogenic exposure (2 of 5 exposed were G-6-PD deficient); no outcome reported per exposure,,,N (not attributed/not TM-specific)
+AJOL_0226,Nwaobilor 2022,21/190 (11.05%) concurrent herbal + orthodox use; text also states 21.58%,,,Y,,
+AJOL_0249,Abdur-Rahman 2015,,,12 children deformed from burns and poorly treated fractures (not attributed specifically to bone setters); 4 deaths from falls,,,N (not attributed/not TM-specific)
+Embase_0293,Obaro 2024,,,"Sepsis: 16/26 traditional-material users culture-positive vs 15/34 non-users (OR 2.03, NS)",,,N (not attributed/not TM-specific)
+Embase_0401,Adah 2023,27.7% (all ages) visited both orthodox and non-orthodox outlets,,,Y,,
+Embase_0428,Ahwinahwi 2023,Not cross-tabulated; 714/782 (91.3%) gave one or more medicines since birth,,,N,,
+Embase_0432,Aremu 2023,All 570 used nose pressure/packing; 250 (43.86%) consulted a health facility; 430 (75.44%) patent medicine store,,,N,,
+Embase_0561,Fatunla 2022,Multiple prevention methods used by 232 (65.0%); herb-specific overlap with antimalarial prophylaxis not reported,,,N,,
+Embase_0618,Abiodun 2021,,,Shock at presentation in 2/12 (16.7%) children given herbal concoction vs 45/324 (13.9%) with no pre-hospital care; not significant (aOR 1.46),,,N (not attributed/not TM-specific)
+Embase_0719,Olatunya 2020,Traditional centre users also gave oral analgesics 5/6 (83.3%) and anti-diarrhoeals (33.3%) (Table 5),,,Y,,
+Embase_0979,Onoja-Alexander 2017,,,31.8% of children had complications of poor cord practices (not attributed to TM specifically),,,N (not attributed/not TM-specific)
+Embase_1077,Olatunya 2015,,,"Alcohol-based herbal concoction was the poisoning agent in 16/81 (19.8%) admissions (2 deaths, 1 DAMA); one 10-month-old given herbal concoction by grandmother died; one 12-year-old died after ingesting alcohol-based herbal aphrodisiac (Osomo)",,,Y
+Embase_1152,Abhulimhen-Iyoha 2015,130/160 (81.3%) gave medications pre-hospital; 124 (77.5%) used chemists,,"Deaths: 2/29 (6.9%) given native concoction vs 3/131 (2.3%) not, p=0.223; scarification 1/16 died; spiritualist 1/3 died",N,,Y
+Embase_1256,Jimoh 2013,,,"26% of respondents reported adverse effects from CAM (all ages, not child-specific); mainly diarrhoea and vomiting (~53%)",,,Y
+Embase_1718,Olaogun 2006,19/26 herb users combined herbs with orthodox drugs,,,Y,,
+EuropePMC_0028,Zhema 2026,,,"Herbal use associated with acute kidney injury (OR 5.08, 95% CI 2.28-11.31); AKI prevalence 57/270 (21.1%)",,,Y
+GIM_0030,Nwaiwu 2016,,,4% of mothers reported vomiting; 96% reported no adverse effect,,,Y
+GoogleScholar_0064,Abodunrin 2011,"All 464 respondents also used modern health services (adult-level, not child-specific)",,,N,,
+OpenAlex_grey_0014,Adeyemo 2017,"Always gave aspirin/teething powder 78.0%, paracetamol 70.4%, chloroquine 47.9%; ACT use 2-3%",,,N,,
+PubMed_0063,Lee 2025,Modern medicine given at home by 164/219 home-treated children (75%); overlap with TM not cross-tabulated,,,N,,
+PubMed_0079,Ibitoye 2025,15/94 (16%) NPI users changed/reduced pain medication due to NPI use; most crises (64%) managed in hospital,Healthcare team not recommending NPIs was top reason for non-use (9/24); providers' disapproval cited; no direct disclosure figure,"Few (n=4) reported NPIs ineffective or with side effects, specifically herbal products causing vomiting and bitter taste",N,N,Y
+PubMed_0182,Bakare 2023,11/173 (6.4%) received traditional medicine after care seeking,,,Y,,
+PubMed_0223,Momoh 2022,Discussion: some mothers sought help from both hospitals and herbalists (number not reported); 248/360 (68.9%) gave ORS,,,N,,
+PubMed_0227,Ezeh 2022,,,AKI requiring peritoneal dialysis attributed to toxins/herbal medications in 5/29 (17.2%),,,Y
+PubMed_0255,Omale 2021,"96.2% sought orthodox care; 169 (12.9%) used more than one source, 50 of whom first went to traditional practitioners",,,Y,,
+PubMed_0275,Olatunya 2021,All participants also received care at the tertiary hospital (facility sample),,,N,,
+PubMed_0305,Iliyasu 2020,,,"Outcomes for all treated jaundiced infants: 13 long-term complications, 11 deaths (not by source of care)",,,N (not attributed/not TM-specific)
+PubMed_0351,Osarogiagbon 2018,"Mentholatum 83, steam with Mentholatum 77; caregivers also bought drugs from chemists (text)",,,N,,
+PubMed_0399,Ogunkeyede 2017,All 23 mothers also used topical ear antibiotics,,Otogenic tetanus in all (cannot attribute to herbs specifically); 3/23 deaths,Y,,N (not attributed/not TM-specific)
+PubMed_0401,Busari 2017,Most respondents were also on regular clinic medications (text); not quantified,0/177 CAM users disclosed use to doctor (all ages),"Side effects always 9, frequently 4, rarely 2, never 162 of 177 users; 33/177 abandoned CAM for side effects/cost (all ages)",N,Y,Y
+PubMed_0403,Omoke 2017,,,"Presenting first to TBS/herbalists associated with delayed presentation (>6 days), which was linked to anaemia and joint damage; no direct adverse event counts",,,N (not attributed/not TM-specific)
+PubMed_0440,Sarmiento 2016,549/1871 mothers who used a second source used traditional medicine (many after pharmacy/clinic first),,,Y,,
+PubMed_0469,Orimadegun 2015,183/200 (91.5%) combined local herbal remedies with orthodox medicine,,Feeling of irritation when local herbs used for prevention: 1.7% of 422 mothers,Y,,Y
+PubMed_0471,Ekwochi 2015,202/263 (76.8%) later took newborn to hospital; 84 (32.1%) gave OTC medicines,,,N,,
+PubMed_0478,Noordam 2015,Multiple sources possible: 555 children made 596 visits; overlap of traditional practitioner with health providers not reported,,,N,,
+PubMed_0481,Ogunlesi 2015,20/30 home-treated infants received drugs (antibiotics) and 18/30 herbal mixtures; overlap not reported,,,N,,
+PubMed_0485,Millar 2014,"Of 15 treated by traditional practitioners: 2 got anti-malarial, 1 blood test, 10 other medication",,,Y,,
+PubMed_0532,Oche 2013,12/50 (24%) took child to hospital,,,N,,
+PubMed_0542,Eseigbe 2012,11/17 had orthodox antipyretic at home; 5/17 consulted patent medicine sellers (overlap with TM not reported),,,N,,
+PubMed_0545,Anigilaje 2012,,,"71 of 85 home managers witnessed side effects of home management: aspiration 45, eye damage 23, burns/contractures 2, death 1 (not attributed to a specific remedy)",,,N (not attributed/not TM-specific)
+PubMed_0548,Jarrett 2012,,,No cow-urine toxicity observed; 1 child corneal opacification after substances to eyes; 1 burn needed plastic surgery; both deaths in no-intervention group,,,Y
+PubMed_0567,Fatungase 2012,Multiple responses; most also used Malact (ACT) 75%/70% at baseline; overlap with herbal not reported,,,N,,
+PubMed_0575,Eseigbe 2012,72.7% (24/33) used more than one care option before presentation; overlap with herbal use not stated,,3/6 children given herbal concoction died (association with mortality; causality not established),N,,Y
+PubMed_0697,Oshikoya 2009,Most medicines used in combination with herbal medicines or other medicines,,,N,,
+PubMed_0705,Oshikoya 2008,All 99 CAM users were also on regular prescribed medicines,0/99: none disclosed CAM use to doctors (84.8% because doctors did not ask),"7/99 (7.1%): over-sedation/hyperactivity (epilepsy), worsened breathing (asthma), fever/diarrhoea/vomiting (sickle cell)",Y,Y,Y
+PubMed_0790,Adegboyega 2005,All 65 with traditional first action were subsequently taken for outside care (sequential use),,,Y,,
+PubMed_0795,Akogun 2005,Herbs plus drugs from market/shops as first line 30/186 (16.1%),,Not quantified; qualitative report that most child deaths occur when convulsing children are taken to other villages/healers and reach facilities late,Y,,N (not attributed/not TM-specific)
+Embase_1160,Agbolade 2015,79.6% took child to military hospital in addition to home management; overlap with native medicine not reported,,,N,,
+Embase_1824,Anochie 2000,,,"Among 14 exposed: aspiration pneumonia 7.7%, chemical/bacterial conjunctivitis 7.7%, wound sepsis 2 (14.3%), flame burns 3 (21.4%), 1 death (7.1%); 8 needed extensive antibiotics",,,Y
+GIM_0002,Umeanaeto 2023,17/200 (8.5%) combined antimalarial with herbal preparation (17/42 herbal users),,,Y,,
+GIM_0005,Ekanem 2022,Enema given before antimalarial treatment by 102/169 (60.4%) users,,,Y,,
+GIM_0013,Udujih 2020,233/6259 (3.7%) used both herbalist and hospital,,,Y,,
+GIM_0023,Ndu 2018,,,"Complications in 5/13 (gangrene 1, necrotic ulcer 1, compartment syndrome 3) and 1 death; not attributed to TM",,,N (not attributed/not TM-specific)
+GIM_0040,Osuorah 2015,,,"Neonatal fever in last 2 weeks: other concoction 1/18 (5.5%), OR 2.58 (0.30-22.22); animal dung 1/5, OR 11.01 (1.11-111); ash 1/14, OR 3.37 (0.90-29.51); vs nothing 7/314 (2.2%)",,,Y
+GIM_0044,Anigilaje 2014,324/409: all CAM users were concurrently on HAART,12/324 (3.7%) disclosed CAM use to their doctor,,Y,Y,
+GoogleScholar_0001,Kingsley 2026,,"Side effects mostly reported to the herb seller (50.3% of ever users; 63.4% of current users), not to health workers",71.4% of ever users noticed side effects in their children (commonest diarrhoea 82.7%); 54.5% of current users observed side effects (diarrhoea 60.6%),,N,Y
+GoogleScholar_0009,Iloh 2013,Not cross-tabulated; 128/196 (65.3%) had home antimalarial treatment,,,N,,
+GoogleScholar_0011,Duru 2020,246/415 (59.3%) use CAM in combination with Western medicine; 337/415 (81.2%) as alternative to Western medicine,,Not determined in this study,Y,,N (not attributed/not TM-specific)
+GoogleScholar_0015,Noma 2025,,,"Allergic reactions 193 (44.9%), digestive problems 175 (40.7%), skin reactions 157 (36.5%); only 13 (3.0%) reported none",,,Y
+GoogleScholar_0016,Makinde 2015,About 19.0% of the 581 NPM users combined western and traditional medicines,,,Y,,
+GoogleScholar_0020,Adeosun 2017,Qualitative: mothers said orthodox medicine use does not stop herbal use; not quantified,,"6/340 (1.8%) infants experienced side effects: stooling 4, rashes 1, cough 1; 272/340 (80%) believed herbs have no side effects",N,,Y
+GoogleScholar_0025,Ayobami 2017,Abstract: 29.3% (OCR partly illegible) combined herbal remedies with conventional medicine; 369/370 (99.7%) stopped herbal remedies when drugs were prescribed,None of the respondents had ever been asked by a hospital or trained health worker whether she had used herbal remedies for her child,"38 respondents reported side effects noticed after use: itching 27 (71.1%), vomiting 11 (28.9%)",Y,N,Y
+GoogleScholar_0034,Wobo 2024,32/91 (35.2%) continued ASM while on CAM; 59/91 (64.8%) stopped ASM,5/91 (5.5%) discussed CAM with doctor before use; 86/91 (94.5%) did not,36/91 (39.6%) reported side effects,Y,Y,Y
+GoogleScholar_0036,Uchendu 2019,"Multiple-response remedies among 253 home-treaters included paracetamol 216 (85.4%), antibiotics 190 (75.1%), antimalarials 157 (62.1%) alongside traditional remedies",,,N,,
+GoogleScholar_0041,Fadare 2021,,Authors note possible under-reporting of herbal use for fear of reprimand by doctors,,,N,
+GoogleScholar_0043,Adamu 2024,80/300 (26.7%) use herbs with orthodox medicines; 143/300 (47.7%) use herbs exclusively,,,Y,,
+GoogleScholar_0054,Adedire 2016,"Home care types not exclusive; caregivers combined tepid sponging, paracetamol and herbs",,,N,,
+GoogleScholar_0075,Yusuf 2025,,,"Among all TEM users (self or child): 101/289 (34.9%) partial relief, no improvement or worsening; not child-specific",,,N (not attributed/not TM-specific)
+GoogleScholar_0157,Chukusa 2026,"Chlorhexidine gel used by 105/107 (98.1%) alongside other substances; authors state substances were additions, not alternatives",,,N,,
+GoogleScholar_0184,Ibeneme 2018,,,Authors note induced emesis (especially with kerosene) worsened features and prolonged stay; no herbal-specific events,,,N (not attributed/not TM-specific)
+GoogleScholar_0240,Obiukwu 2011,12/200 (6.0%) combined antimalarial drugs with herbal preparations,,,Y,,
+GoogleScholar_0294,Solarin 2018,,,"Authors associate herbal use with proteinuria, but herbal use was lower among children with proteinuria",,,N (not attributed/not TM-specific)
+OpenAlex_grey_0008,Saliu 2026,50/300 (16.7%) use decoctions with modern antimalarials,,84/300 (28%) reported an adverse effect after use (asked of all respondents; denominator among users unclear),Y,,Y
+Other_0001,Korubo 2025,Methylated spirit with cotton wool 463 (57.1%); chlorhexidine gel 380 (46.9%),,,N,,
+Other_0005,Esezobor 2015,Only 9/263 (3.4%) parents had spoken to a doctor about the enuresis,,,N,,
+PubMed_0108,Atekoja 2025,53.9% said their CAM use also included prescribed drugs from hospitals/clinics (count not given in main text),,,Y,,
+PubMed_0208,Tongo 2022,Alcohol cord care in 97.2% before separation,,,N,,
+PubMed_0501,Oshikoya 2014,47/77 current CM users (60.0%) used CM concurrently with ARV drugs,55/181 (30.4%) disclosed CM use to doctors; 27 not asked by doctors,"Parent-reported among users: vomiting 14, diarrhoea 14, nausea 13, abdominal pain 12, headache 5",Y,Y,Y
+PubMed_0524,Lagunju 2013,33/99 CAM users continued CAM in combination with prescribed anti-epileptic drugs,"30/99 (30.3%) spontaneously volunteered CAM use to the attending paediatrician; main reason for non-disclosure: doctor did not ask (35/69, 50.7%)",Severe vomiting and diarrhoea in 17/69 (24.6%) children who had used herbal preparations (abstract gives 17.1%),Y,Y,Y
+PubMed_0620,Ogunlesi 2012,"Remedies given 'in various combinations' with Ampiclox (70), multivitamins (32) and glucose drinks (20); not quantified for herbal users",,"Home remedy use associated with delayed care >=48 h; delay associated with higher TSB, exchange transfusion and kernicterus (not reported specifically for herbal remedies)",N,,N (not attributed/not TM-specific)
+PubMed_0683,Arulogun 2009,87/400 (21.7%) said choice between agbo and drugs depends on the illness; traditional healers report clients come after 'medical' medicine fails or after hospital discharge (qualitative),,,N,,
+PubMed_0704,Okafor 2009,Herbal remedies given by 12/168 caregivers who treated with drugs at home (Table 2); 10.8% switched to herbal medicine after home treatment failure,,,Y,,
+PubMed_0750,Ndukwe 2007,,,Orofacial injuries 27/75 (36%) mainly from spoon insertion; second-degree foot burns 3; aspiration pneumonitis 3 (not attributed to a specific remedy),,,N (not attributed/not TM-specific)
+PubMed_0761,Olasoji 2007,10 Yoruba mothers were referred to hospital by traditional healers after traditional treatment,,,N,,
+PubMed_0843,Salako 2001,"Second-line care: home herbs 46, indigenous healer 24, faith healer 8 of 675 second actions; most second-line care after herbs was PMV/hawker",,,Y,,
+PubMed_0849,Etuk 2001,6/48 referred to hospital (exclusive category),,"Case fatality: prayers 3/21 (14%), herbs/roots 1/5 (20%); overall 10/48 (20.8%)",N,,Y
+PubMed_0853,Ene-Obong 2000,"Drug mixtures including antimicrobials, antimalarials, antacids, analgesics and some local herbal preparations used in 21.4% of drug-treated cases (herbal share not separated)",,,N,,

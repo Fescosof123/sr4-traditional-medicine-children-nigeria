@@ -1,0 +1,18 @@
+factor_domain,category_defined_as,n_studies,n_associations,n_higher_TM_with_category,n_opposite,n_unclear_or_no_difference,n_adjusted_estimates,n_main_estimates_significant,sign_test_p,rec_ids
+caregiver education,lower caregiver (or household-head) education,20,24,15.0,1.0,4,4,13,0.001,AJOL_0226; Embase_0470; Embase_0610; GIM_0002; GIM_0013; GIM_0044; GoogleScholar_0011; GoogleScholar_0025; GoogleScholar_0034; GoogleScholar_0040; GoogleScholar_0075; GoogleScholar_0240; OpenAlex_grey_0008; PubMed_0108; PubMed_0219; PubMed_0440; PubMed_0450; PubMed_0524; PubMed_0538; PubMed_0566
+caregiver age,older caregiver,8,9,4.0,1.0,3,1,3,0.375,AJOL_0226; Embase_0470; GoogleScholar_0011; GoogleScholar_0040; GoogleScholar_0075; OpenAlex_grey_0008; PubMed_0566; PubMed_0795
+residence (rural/urban),rural residence,7,9,5.0,1.0,1,1,3,0.219,AJOL_0139; GIM_0044; GoogleScholar_0075; PubMed_0295; PubMed_0450; PubMed_0538; PubMed_0727
+socioeconomic status/income,lower SES/income,11,11,8.0,1.0,2,1,3,0.039,AJOL_0025; Embase_0561; GoogleScholar_0034; GoogleScholar_0075; GoogleScholar_0120; OpenAlex_grey_0008; PubMed_0440; PubMed_0450; PubMed_0524; PubMed_0548; PubMed_0608
+religion,traditional religion or Islam (vs Christianity),7,7,1.0,2.0,4,1,6,1.0,AJOL_0226; GoogleScholar_0011; GoogleScholar_0014; OpenAlex_grey_0008; PubMed_0079; PubMed_0108; PubMed_0401
+ethnicity,indigenous/majority ethnic group of the study area,5,5,3.0,0.0,2,2,2,0.25,GIM_0005; GoogleScholar_0011; PubMed_0108; PubMed_0401; PubMed_0761
+marital status,not married/without partner,3,3,2.0,0.0,1,1,1,0.5,GIM_0044; GoogleScholar_0011; PubMed_0566
+occupation,"informal occupation (farming, trading, fishing) vs salaried",5,5,3.0,0.0,2,0,4,0.25,GIM_0013; GoogleScholar_0011; GoogleScholar_0075; OpenAlex_grey_0008; PubMed_0566
+household/family structure,"larger family (more children, higher parity, later birth order)",5,6,4.0,0.0,1,2,2,0.125,Embase_0470; GoogleScholar_0011; GoogleScholar_0025; GoogleScholar_0040; PubMed_0450
+child age,younger child,5,5,2.0,1.0,2,2,1,1.0,Embase_0401; GIM_0005; GoogleScholar_0040; PubMed_0401; PubMed_0538
+child sex,female child (no a priori hypothesis; used only to align directions),8,8,3.0,4.0,1,1,4,1.0,AJOL_0142; Embase_0401; GIM_0044; GoogleScholar_0034; PubMed_0079; PubMed_0401; PubMed_0524; PubMed_0538
+illness type/severity,more severe or complicated illness,9,16,3.0,0.0,6,0,2,0.25,AJOL_0031; AJOL_0208; GoogleScholar_0034; PubMed_0079; PubMed_0182; PubMed_0275; PubMed_0401; PubMed_0403; PubMed_0524
+knowledge/beliefs/perceptions,favourable perception of TM or poorer biomedical knowledge,5,7,4.0,0.0,1,0,5,0.125,GoogleScholar_0014; GoogleScholar_0025; GoogleScholar_0206; PubMed_0469; PubMed_0524
+access/cost/distance,"poorer access or cost barriers (out-of-pocket, no insurance, cost/availability)",3,4,2.0,0.0,1,0,1,0.5,Embase_0401; GoogleScholar_0075; PubMed_0469
+previous experience,previous traditional care or adverse experience,3,4,3.0,0.0,0,1,2,0.25,GIM_0044; PubMed_0440; PubMed_0795
+media exposure,lower media exposure,1,2,0.0,1.0,0,1,0,1.0,PubMed_0070
+other,not applicable (heterogeneous factors),15,18,,,15,4,7,,AJOL_0167; AJOL_0226; GIM_0005; GIM_0013; GIM_0044; GoogleScholar_0034; GoogleScholar_0040; PubMed_0063; PubMed_0108; PubMed_0401; PubMed_0440; PubMed_0485; PubMed_0516; PubMed_0567; PubMed_0611

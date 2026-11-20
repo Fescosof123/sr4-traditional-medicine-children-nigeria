@@ -1,0 +1,105 @@
+Meta-regression on publication year
+
+Mixed-Effects Model (k = 134; tau^2 estimator: ML)
+
+tau^2 (estimated amount of residual heterogeneity):     3.3447
+tau (square root of estimated tau^2 value):             1.8289
+I^2 (residual heterogeneity / unaccounted variability): 99.45%
+H^2 (unaccounted variability / sampling variability):   182.40
+
+Tests for Residual Heterogeneity:
+Wld(df = 132) = 12203.0036, p-val < .0001
+LRT(df = 132) = 21185.0926, p-val < .0001
+
+Test of Moderators (coefficient 2):
+QM(df = 1) = 2.5861, p-val = 0.1078
+
+Model Results:
+
+         estimate       se     zval    pval      ci.lb    ci.ub    
+intrcpt  -80.7244  49.3192  -1.6368  0.1017  -177.3882  15.9394    
+year       0.0393   0.0245   1.6081  0.1078    -0.0086   0.0873    
+
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+
+Meta-regression on zone
+
+Mixed-Effects Model (k = 134; tau^2 estimator: ML)
+
+tau^2 (estimated amount of residual heterogeneity):     3.0793
+tau (square root of estimated tau^2 value):             1.7548
+I^2 (residual heterogeneity / unaccounted variability): 99.32%
+H^2 (unaccounted variability / sampling variability):   146.19
+
+Tests for Residual Heterogeneity:
+Wld(df = 126) = 10101.4618, p-val < .0001
+LRT(df = 126) = 16556.4876, p-val < .0001
+
+Test of Moderators (coefficients 2:8):
+QM(df = 7) = 13.6372, p-val = 0.0580
+
+Model Results:
+
+                           estimate      se     zval    pval    ci.lb    ci.ub 
+intrcpt                     -1.8625  0.8857  -2.1027  0.0355  -3.5985  -0.1264 
+factor(zone)National        -1.4498  1.1851  -1.2234  0.2212  -3.7725   0.8729 
+factor(zone)North-Central    1.0094  1.0467   0.9644  0.3349  -1.0421   3.0610 
+factor(zone)North-East       1.0978  1.1851   0.9263  0.3543  -1.2250   3.4206 
+factor(zone)North-West       0.3768  1.0061   0.3745  0.7080  -1.5952   2.3488 
+factor(zone)South-East      -0.1638  0.9476  -0.1728  0.8628  -2.0210   1.6935 
+factor(zone)South-South      0.4826  0.9865   0.4892  0.6247  -1.4509   2.4160 
+factor(zone)South-West       0.8449  0.9200   0.9184  0.3584  -0.9582   2.6481 
+                             
+intrcpt                    * 
+factor(zone)National         
+factor(zone)North-Central    
+factor(zone)North-East       
+factor(zone)North-West       
+factor(zone)South-East       
+factor(zone)South-South      
+factor(zone)South-West       
+
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+
+Multivariable: year + setting + risk of bias
+
+Mixed-Effects Model (k = 134; tau^2 estimator: ML)
+
+tau^2 (estimated amount of residual heterogeneity):     3.1291
+tau (square root of estimated tau^2 value):             1.7689
+I^2 (residual heterogeneity / unaccounted variability): 99.35%
+H^2 (unaccounted variability / sampling variability):   154.35
+
+Tests for Residual Heterogeneity:
+Wld(df = 127) = 9274.9316, p-val < .0001
+LRT(df = 127) = 16797.1933, p-val < .0001
+
+Test of Moderators (coefficients 2:7):
+QM(df = 6) = 12.1207, p-val = 0.0593
+
+Model Results:
+
+                                estimate       se     zval    pval      ci.lb 
+intrcpt                         -81.4185  48.1390  -1.6913  0.0908  -175.7692 
+year                              0.0393   0.0239   1.6441  0.1001    -0.0075 
+factor(setting)Health facility    0.1672   0.3811   0.4387  0.6608    -0.5797 
+factor(setting)National survey   -2.1204   0.8295  -2.5564  0.0106    -3.7461 
+factor(setting)School             0.1087   0.8351   0.1301  0.8965    -1.5280 
+factor(rob)low                    0.9780   0.5751   1.7005  0.0890    -0.1492 
+factor(rob)moderate               0.7235   0.5282   1.3698  0.1708    -0.3117 
+                                  ci.ub    
+intrcpt                         12.9321  . 
+year                             0.0861    
+factor(setting)Health facility   0.9141    
+factor(setting)National survey  -0.4947  * 
+factor(setting)School            1.7454    
+factor(rob)low                   2.1051  . 
+factor(rob)moderate              1.7586    
+
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+

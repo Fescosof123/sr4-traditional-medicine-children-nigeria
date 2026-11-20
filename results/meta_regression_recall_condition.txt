@@ -1,0 +1,59 @@
+Warning message:
+In checkConv(attr(opt, "derivs"), opt$par, ctrl = control$checkConv,  :
+  Model failed to converge with max|grad| = 0.00242256 (tol = 0.002, component 1)
+
+Mixed-Effects Model (k = 134; tau^2 estimator: ML)
+
+tau^2 (estimated amount of residual heterogeneity):     2.6414
+tau (square root of estimated tau^2 value):             1.6252
+I^2 (residual heterogeneity / unaccounted variability): 99.22%
+H^2 (unaccounted variability / sampling variability):   127.47
+
+Tests for Residual Heterogeneity:
+Wld(df = 124) = 10164.8567, p-val < .0001
+LRT(df = 124) = 15975.9901, p-val < .0001
+
+Test of Moderators (coefficients 2:10):
+QM(df = 9) = 37.5041, p-val < .0001
+
+Model Results:
+
+                                                          estimate      se 
+intrcpt                                                    -3.0013  0.8425 
+factor(recall_group)Specific illness episode                0.3790  0.4331 
+factor(recall_group)Usual practice or ever                  1.3956  0.4345 
+factor(condition)Chronic conditions                         1.6854  0.8735 
+factor(condition)Diarrhoea                                 -0.3133  0.8634 
+factor(condition)Febrile convulsion                         1.1397  0.9757 
+factor(condition)General/any illness                        1.4418  0.8443 
+factor(condition)Malaria/fever                              0.5939  0.7813 
+factor(condition)Neonatal care (jaundice, cord, newborn)    0.3718  0.8754 
+factor(condition)Other acute conditions                     1.5477  0.8290 
+                                                             zval    pval 
+intrcpt                                                   -3.5625  0.0004 
+factor(recall_group)Specific illness episode               0.8751  0.3815 
+factor(recall_group)Usual practice or ever                 3.2122  0.0013 
+factor(condition)Chronic conditions                        1.9296  0.0537 
+factor(condition)Diarrhoea                                -0.3628  0.7167 
+factor(condition)Febrile convulsion                        1.1681  0.2428 
+factor(condition)General/any illness                       1.7078  0.0877 
+factor(condition)Malaria/fever                             0.7602  0.4472 
+factor(condition)Neonatal care (jaundice, cord, newborn)   0.4247  0.6711 
+factor(condition)Other acute conditions                    1.8669  0.0619 
+                                                            ci.lb    ci.ub      
+intrcpt                                                   -4.6525  -1.3501  *** 
+factor(recall_group)Specific illness episode              -0.4698   1.2278      
+factor(recall_group)Usual practice or ever                 0.5441   2.2472   ** 
+factor(condition)Chronic conditions                       -0.0266   3.3973    . 
+factor(condition)Diarrhoea                                -2.0056   1.3790      
+factor(condition)Febrile convulsion                       -0.7727   3.0521      
+factor(condition)General/any illness                      -0.2129   3.0966    . 
+factor(condition)Malaria/fever                            -0.9374   2.1252      
+factor(condition)Neonatal care (jaundice, cord, newborn)  -1.3441   2.0876      
+factor(condition)Other acute conditions                   -0.0771   3.1726    . 
+
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+LRT-ish compare tau2: 2.941799 2.641355 
+tau2 none 3.418; recall only 3.041816 ; R2 approx 22.7 

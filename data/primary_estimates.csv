@@ -1,0 +1,160 @@
+rec_id,label,tm_type,numerator,denominator,percent,usable_for_pooling,pool_overall,pool_note,primary_source,alternatives / why_not
+AJOL_0008,Patronize prayer house (largest single TM item; prayer house and native doctor are multiple-response items and not added),,9.0,300.0,3.0,True,True,,A and B agreed, 
+AJOL_0011,Traditional healer consulted first for child's suspected malaria episode (past month),,13.0,176.0,7.4,True,True,,A and B agreed, 
+AJOL_0015,"Any use of unorthodox care (herbalist/spiritual homes), alone or combined with health facility",,38.0,140.0,27.1,True,True,,A and B agreed, 
+AJOL_0018,Treat at home with native remedies when child has ARI,,192.0,346.0,55.5,True,True,,A and B agreed, 
+AJOL_0022,Patronised herbalist alongside orthodox care for child's acute watery diarrhoea,,85.0,200.0,42.5,True,True,,A and B agreed, 
+AJOL_0025,"Taken to alternative sources of care (traditional herbal healers, Christian or Islamic faith healers) before hospital presentation",,28.0,91.0,30.8,True,True,,A and B agreed, 
+AJOL_0031,"Pre-hospital treatment at traditional healer or church (single-choice places, cases + controls)",combined TM,29.0,128.0,22.7,True,True,,checker,"controls only 13/64 (20.3%); healer 8/128; church 21/128 case-control, hospital sample, combined"
+AJOL_0044,Smeared the child's body with herbal preparations (largest single TM item; type-specific only),,45.0,125.0,36.0,True,True,,A and B agreed, 
+AJOL_0051,Herbal concoction used as home fluid for child diarrhoea,,119.0,244.0,48.8,True,True,,A and B agreed, 
+AJOL_0067,Native medication applied for nappy rash,,1.0,48.0,2.1,True,True,,A and B agreed, 
+AJOL_0075,Used herbs to treat neonatal jaundice (mothers who had a jaundiced baby),,32.0,89.0,36.0,True,True,,A and B agreed, 
+AJOL_0085,Herbal drink given at home before admission for diarrhoea,,1.0,100.0,1.0,True,True,,A and B agreed, 
+AJOL_0087,Prayer water given as home remedy before admission (poisoning),spiritual/faith,1.0,31.0,3.2,True,True,,checker,"palm oil 22/31 (71.0%); palm oil or prayer water 23/31 (74.2%) small series, records, poisoning first aid"
+AJOL_0094,Herbal mixtures given as home remedy before presentation (largest single TM item),,2.0,75.0,2.7,True,True,,A and B agreed, 
+AJOL_0111,Religious remedies sought before presentation (delayed-presentation subgroup only),,5.0,151.0,3.3,False,False,"Denominator is the subgroup with delayed presentation (151/312), selected on an outcome linked to prior care; TM use not reported for the whole sample of 312. Spiritual only, no herbal item.",A and B agreed," Denominator is the subgroup with delayed presentation (151/312), selected on an outcome linked to prior care; TM use not reported for the whole sample of 312. Spiritual only, no herbal item."
+AJOL_0139,Traditional healers as treatment source for febrile under-five (rural and urban combined; derived),,52.0,1472.0,3.5,True,True,,A and B agreed, Numerator derived by extractor: 4.8% x 678 (=33) + 2.4% x 794 (=19); paper gives percentages only. Denominators assume all Table 1 rural/urban caregivers answered.
+AJOL_0142,"First response to child fever was herbs, traditional healer or traditional home management",,141.0,2210.0,6.4,True,True,,A and B agreed, 
+AJOL_0157,Take sick child to traditional healers first,,56.0,420.0,13.3,True,True,,A and B agreed, 
+AJOL_0167,"Traditional drugs given at home before presentation, both periods combined (85/891 + 1/109)",,86.0,1000.0,8.6,True,True,,A and B agreed, 
+AJOL_0169,"Main management practice for worms: home remedy, trado-medicine practitioner or faith (single-choice, summed)",combined TM,260.0,956.0,27.2,True,True,,checker,"plant materials as home remedy 518/956 (54.2%); healer 98/956; faith 40/956 combined, derived"
+AJOL_0208,Given traditional medicine,,5.0,100.0,5.0,True,True,,A and B agreed, 
+AJOL_0218,Herbal preparation applied to umbilical cord stump,,20.0,577.0,3.5,True,True,,A and B agreed, 
+AJOL_0226,Used herbal drugs on child during illness in past year,,58.0,103.0,56.3,True,True,,A and B agreed, 
+AJOL_0249,Herbal/traditional bone setter treatment among injured children,,8.0,602.0,1.3,True,True,,A and B agreed, 
+AJOL_0272,Herbal treatment for enuresis among enuretic children,,15.0,187.0,8.0,True,True,,A and B agreed, 
+Embase_0009,Herb applied to the umbilical cord (only TM item),,2.0,167.0,1.2,True,True,,A and B agreed, Weak measure: herb was one option in a multiple-response list with some missing data; paper's 0.7% uses total responses as denominator.
+Embase_0293,Traditional materials applied to umbilical cord,,26.0,60.0,43.3,False,False,"Combined measure mixes non-traditional/unhygienic items (charcoal, lubricants, balm, ash) with herbs; herbal-only count not reported; small sepsis-admission sample.",A and B agreed," Combined measure mixes non-traditional/unhygienic items (charcoal, lubricants, balm, ash) with herbs; herbal-only count not reported; small sepsis-admission sample."
+Embase_0401,"Traditional medication before presentation, patients under 18 years",,37.0,132.0,28.0,True,True,,A and B agreed, 
+Embase_0428,"Other remedies, mainly of herbal origin, given since birth",,354.0,782.0,45.3,False,False,Combined measure: 'other remedies which were mainly of herbal origin' may include non-herbal home remedies; candidate for sensitivity analysis only,A and B agreed, Combined measure: 'other remedies which were mainly of herbal origin' may include non-herbal home remedies; candidate for sensitivity analysis only
+Embase_0432,"Prayer/supernatural healing for epistaxis (largest single TM item; local herb extracts 450/570, 78.95%)",,500.0,570.0,87.72,True,True,,A and B agreed, 
+Embase_0470,Seek help at church or traditional medicine practitioner (wrong HSB),,,620.0,1.7,True,False,"Numerator not reported; back-calculated about 10-11 (1.7% x 620 = 10.5; 1.1% + 0.6% = approx. 7 + 4 = 11). Categories in Table 2 sum to 99.9%, so treated as mutually exclusive despite multiple choice being allowed.",A and B agreed," Numerator not reported; back-calculated about 10-11 (1.7% x 620 = 10.5; 1.1% + 0.6% = approx. 7 + 4 = 11). Categories in Table 2 sum to 99.9%, so treated as mutually exclusive despite multiple choice being allowed."
+Embase_0471,Herbal concoctions given to child for malaria symptoms (usual practice),,215.0,968.0,22.2,True,True,,A and B agreed, 
+Embase_0561,Routine ingestion of local herbs for malaria prophylaxis,,151.0,357.0,42.3,True,True,,A and B agreed, 
+Embase_0610,Herbal medicine as action on first day of child's fever,,45.0,94.0,47.9,True,True,,A and B agreed, 
+Embase_0618,Herbal concoction as pre-hospital care before presentation to CHER,,12.0,554.0,2.2,True,True,,A and B agreed, 
+Embase_0719,Herbal preparation for teething (largest single TM item),,46.0,516.0,8.9,True,True,,A and B agreed, Type-specific item only; herbal and faith-based items are multiple-response and cannot be added.
+Embase_0750,Native medication (agbo) cited as reason for home treatment,,3.0,314.0,1.0,False,False,"Reason-based figure (reasons for preferring home treatment), not a direct question on TM use; underestimates use.",A and B agreed," Reason-based figure (reasons for preferring home treatment), not a direct question on TM use; underestimates use."
+Embase_0979,Herbs used for cord care (largest single TM item),,,110.0,15.0,True,False,Numerator not reported; must be back-calculated from a rounded percentage,A and B agreed, Numerator not reported; must be back-calculated from a rounded percentage
+Embase_1077,"Herbal concoction given at home after poisoning, before presentation",herbal,19.0,81.0,23.5,True,True,,checker,"palm oil 56/81 (69.1%); enema 3/81 small series, records, poisoning first aid"
+Embase_1152,Native concoctions given before hospital presentation,,29.0,160.0,18.1,True,True,,A and B agreed, 
+Embase_1156,First action: home treatment with herbs/native medicine for child malaria in past 2 weeks,herbal,69.0,185.0,37.3,True,True,,checker,69/330 (20.9%) all mother-child pairs; herbs + traditional home care 105/185 
+Embase_1187,"Any alternative care (spiritual deliverance, prayers, herbal) before hospital presentation",,70.0,100.0,70.0,True,True,,A and B agreed, 
+Embase_1256,Use of CAM (mainly local herbal preparations) for their children,,240.0,500.0,48.0,False,False,"Denominator is all adults (52% unmarried, many likely without children), not caregivers; CAM definition includes non-traditional items; no child-specific breakdown",A and B agreed," Denominator is all adults (52% unmarried, many likely without children), not caregivers; CAM definition includes non-traditional items; no child-specific breakdown"
+Embase_1384,"Traditional healer/herbalist as treatment option for child diarrhoea, Nigeria DHS 2008",,83.0,2396.0,3.5,True,True,,A and B agreed, 
+Embase_1718,Any local/traditional herbs (alone 7 or with orthodox drugs 19) for the febrile child before clinic,,26.0,200.0,13.0,True,True,,A and B agreed, 
+EuropePMC_0028,No proportion of herbal use reported,,,,,False,False,Association-only: herb use reported only as a risk factor for AKI (OR); no count or proportion of herbal use.,A and B agreed, Association-only: herb use reported only as a risk factor for AKI (OR); no count or proportion of herbal use.
+GIM_0030,Used herbal medicines in their neonate/infant <6 months,,56.0,78.0,71.8,True,True,,A and B agreed, 
+GoogleScholar_0040,Ever used traditional eye medicine on child,,139.0,320.0,43.4,True,True,,A and B agreed, 
+GoogleScholar_0064,Respondents with children who normally/sometimes use herbal drugs for their children,,147.0,182.0,80.8,True,True,,A and B agreed, 
+OpenAlex_grey_0014,Ever (always or occasionally) gave herbal preparation (agbo) for under-five malaria fever,,715.0,837.0,85.4,True,True,,A and B agreed, 
+PubMed_0011,First sought care from traditional healer or church/mosque/faith home (exclusive categories),,4.0,350.0,1.1,True,True,,A and B agreed, 
+PubMed_0063,Traditional medicines/herbs given at home before attending provider,,48.0,589.0,8.1,True,True,,A and B agreed, 
+PubMed_0064,"Any traditional care (herbs at home, spiritualist prayers or traditional healer) for suspected malaria",,112.0,283.0,39.6,True,True,,A and B agreed, 
+PubMed_0070,"Traditional medicine as source of malaria/fever treatment, rural MIS 2021",,22.0,893.0,2.5,True,True,,A and B agreed, 
+PubMed_0074,Traditional/home remedies as action for suspected anaemia symptoms,,81.0,215.0,37.7,False,False,"Combined 'traditional/home remedies' category mixes non-traditional home remedies with TM; methods describe it as preference for facility vs home/traditional remedies, so actual TM use is uncertain.",A and B agreed," Combined 'traditional/home remedies' category mixes non-traditional home remedies with TM; methods describe it as preference for facility vs home/traditional remedies, so actual TM use is uncertain."
+PubMed_0079,"Herbal products for sickle cell crisis pain in past year (largest single TM item), whole sample",,36.0,123.0,29.3,True,True,,A and B agreed, Percent recomputed on full sample (paper's 37-38% uses the 94 NPI users as denominator). Herbal and prayer items overlap and cannot be added; prayer may be self/relative prayer rather than faith healer.
+PubMed_0132,Sick under-five not taken to facility because traditional medicine used (children ill in last 6 months),combined TM,23.0,312.0,7.4,True,True,,checker,"23/386 (6.0%) paper denominator; 23/238 (9.7%) not taken to facility lower bound, reason-based, derived"
+PubMed_0182,Traditional medicine at home for children with ARI symptoms in prior 2 weeks,,13.0,536.0,2.4,True,True,,A and B agreed, 
+PubMed_0192,Largest single TM item: prayers used for child malaria (agbo 10.2% separately; categories appear single-choice but exclusivity not stated),,35.0,283.0,12.4,True,True,,A and B agreed, 
+PubMed_0219,Herbal/native concoction given at home for seizures,,33.0,95.0,34.7,True,True,,A and B agreed, 
+PubMed_0223,Gave traditional or herbal medicine to child with diarrhoea,,127.0,360.0,35.3,True,True,,A and B agreed, 
+PubMed_0227,Toxins/herbal medications as cause of AKI in children on peritoneal dialysis,,5.0,29.0,17.2,False,False,"Combined toxin/herbal aetiology measure (adverse event), not a prevalence of TM use; herbal cannot be separated from other toxins.",A and B agreed," Combined toxin/herbal aetiology measure (adverse event), not a prevalence of TM use; herbal cannot be separated from other toxins."
+PubMed_0255,Sought care with traditional practitioners for febrile under-five child,,136.0,1310.0,10.4,True,True,,A and B agreed, 
+PubMed_0267,First care from neighbours/traditional doctors (combined),,17.0,120.0,14.0,False,False,Combined measure mixes non-traditional source (neighbours) with traditional doctors; traditional doctors not reported separately,A and B agreed, Combined measure mixes non-traditional source (neighbours) with traditional doctors; traditional doctors not reported separately
+PubMed_0275,SCD children treated at faith-based centres (largest single TM item; overlap with traditional care unknown so not added),,27.0,110.0,24.5,True,True,,A and B agreed, 
+PubMed_0295,Religious leaders/herbal treatment homes as place of care for febrile under-five in last 2 weeks,,10.0,441.0,2.3,True,True,,A and B agreed, 
+PubMed_0305,Jaundiced infant treated by traditional healer,,24.0,117.0,20.5,True,True,,A and B agreed, 
+PubMed_0328,Traditional practitioner first source of treatment (largest single TM item; type-specific),,16.0,553.0,2.9,True,True,,A and B agreed, 
+PubMed_0348,Local herbs used by parents to manage child's dental problem (pupils reporting dental problems),,80.0,227.0,35.3,True,True,,A and B agreed, 
+PubMed_0351,Applied scent leaf (Ocimum gratissimum) for ARI (largest herbal item),herbal,12.0,346.0,3.5,False,False,companion of AJOL_0018 (same survey); pool AJOL_0018,checker,shea butter 163/346 (47.1%); palm kernel oil 55/346; steam with herbs 3/346 overlap with AJOL_0018
+PubMed_0387,"Local herbs applied to cord stump at last delivery, Bauchi State (approx. 4%, weighted state estimate)",,,380.0,4.0,True,False,"same 2012 LQAS survey round as PubMed_0485; overall pooling uses PubMed_0485 (child illness), cord-care subgroup may use PubMed_0387",A and B agreed, Approximate weighted percentage read from text ('remained unchanged at 4%'); numerator not reported; Sokoto value only in a figure. Pool with caution or exclude in sensitivity analysis.
+PubMed_0395,Herbal preparation as pre-hospital treatment of dog bite,herbal,34.0,84.0,40.5,True,True,,checker,"herbal + scarification/rope tying 42/84 (50.0%) records, injury-specific, abstract 60% conflicts"
+PubMed_0399,Herbs applied into the discharging ear before presentation,,17.0,23.0,73.9,True,True,,A and B agreed, 
+PubMed_0401,Any CAM use among SCD patients aged <=18 years (derived),,96.0,107.0,89.7,False,False,"CAM measure combines traditional items with non-traditional products (supplements, Forever Living, GNLD, vitamins, Chinese medicine); no child-specific TM-only figure; type percentages are of responses and include adults",A and B agreed," CAM measure combines traditional items with non-traditional products (supplements, Forever Living, GNLD, vitamins, Chinese medicine); no child-specific TM-only figure; type percentages are of responses and include adults"
+PubMed_0403,First consulted traditional bonesetters/herbalists before hospital care,,14.0,44.0,31.8,True,True,,A and B agreed, 
+PubMed_0420,Traditional treatment as first/primary care for child diarrhoea in last 2 weeks,,10.0,282.0,3.5,True,True,,A and B agreed," Herbal remedies 28/202 (13.9%) is larger but its denominator is children given oral rehydration fluids (202), not all 282 diarrhoea cases; 28/282 = 9.9% could be used in sensitivity analysis."
+PubMed_0440,Child with last diarrhoea episode taken to a traditional medicine practitioner (first or second source),,615.0,5416.0,11.4,True,True,,A and B agreed, 
+PubMed_0450,Traditionalist or spiritual/church care as first action for suspected pneumonia,,13.0,253.0,5.1,True,True,,A and B agreed, 
+PubMed_0469,Local herbal remedies (with orthodox medicine) used for child's last malaria episode,,183.0,200.0,91.5,True,True,,A and B agreed, 
+PubMed_0471,Local concoction/traditional medications for newborn danger signs,,12.0,263.0,4.6,True,True,,A and B agreed, 
+PubMed_0478,"Children under 5 with suspected pneumonia taken to a traditional practitioner (Nigeria, MICS 2011)",,40.0,890.0,4.5,True,True,,A and B agreed, 
+PubMed_0481,Herbal mixtures given for newborn jaundice before hospital presentation,,18.0,98.0,18.4,True,True,,A and B agreed, 
+PubMed_0485,First-line care from a traditional practitioner for febrile under-five child,,15.0,814.0,1.8,True,True,,A and B agreed, 
+PubMed_0516,Baseline (2009) traditional medicine/herbs for under-five fever/cough in past month,,,1205.0,13.2,True,False,"Usable with caution: numerator not reported and denominator ambiguous (1,205 'n with any care' vs 2,910 'total sick'); weighted percent",A and B agreed," Usable with caution: numerator not reported and denominator ambiguous (1,205 'n with any care' vs 2,910 'total sick'); weighted percent"
+PubMed_0520,Pre-hospital medication obtained from herbal practitioner (all 226 children with ARI),,16.0,226.0,7.1,True,True,,A and B agreed, 
+PubMed_0531,Gbomoro or herbal concoctions for infant colic (mutually exclusive Table 4 categories summed),,25.0,177.0,14.1,True,True,,A and B agreed, Sum of two exclusive categories (Table 4 totals 177). Gbomoro is described as herbal but reported to contain chloroquine; herbal concoctions alone 4/177 (2.3%) for sensitivity.
+PubMed_0532,Traditional medication used in home management of febrile convulsion (baseline),,49.0,50.0,98.0,True,True,,A and B agreed, 
+PubMed_0542,Traditional herbal mixture before admission,,7.0,17.0,41.2,True,True,,A and B agreed, 
+PubMed_0545,"Cow's urine herbal concoction ever given to convulsing child, all mothers",herbal,74.0,500.0,14.8,True,True,,checker,74/85 (87.1%) home managers; Quran recitation 15/85; would seek herbalist 22/500 lower bound
+PubMed_0548,Native concoction/cow urine mixture pre-hospital,,15.0,147.0,10.2,True,True,,A and B agreed, 
+PubMed_0563,Non-beneficial cord care (combined measure including herbs and non-traditional items),,395.0,497.0,79.5,False,False,"Combined measure mixing traditional (herbs, native chalk) with non-traditional items (toothpaste, petroleum jelly, menthol balm, hot compress); herbal use not separately quantified.",A and B agreed," Combined measure mixing traditional (herbs, native chalk) with non-traditional items (toothpaste, petroleum jelly, menthol balm, hot compress); herbal use not separately quantified."
+PubMed_0566,Crude oil used as traditional medicine by mothers,other: mineral (crude oil),134.0,420.0,31.9,False,False,not TM under C4,checker,none not TM under C4
+PubMed_0567,Herbal medicine used for home management of under-five malaria at baseline (both arms),,42.0,400.0,10.5,True,True,,A and B agreed, 
+PubMed_0575,Herbal concoction (oral or topical) before presentation,,6.0,33.0,18.2,True,True,,A and B agreed, 
+PubMed_0598,Herbal preparations for home treatment of child's diarrhoea,,1.0,193.0,0.5,True,True,,A and B agreed, 
+PubMed_0645,Last malaria episode treated at herbalist's place,,53.0,500.0,10.6,True,True,,A and B agreed, 
+PubMed_0697,Infant with colic given herbal medicine (self-medication) or treated by traditional herbal practitioner,,200.0,558.0,35.8,True,True,,A and B agreed, 
+PubMed_0705,Any CAM use for child with chronic condition,,99.0,318.0,31.1,False,False,"Combined CAM measure mixes non-traditional items (supplements, diet, meditation, massage). Largest single TM items: ginger 45/318 (14.2%), herbs 36/318 (11.3%), spiritual healing/prayer 35/318 (11.0%)",A and B agreed," Combined CAM measure mixes non-traditional items (supplements, diet, meditation, massage). Largest single TM items: ginger 45/318 (14.2%), herbs 36/318 (11.3%), spiritual healing/prayer 35/318 (11.0%)"
+PubMed_0727,"Traditional healer as first action (12) or native concoction given at home (10), disjoint groups",combined TM,22.0,400.0,5.5,True,True,,checker,"healer first action 12/400 (3.0%); concoction 10/272; rural healer 10/124 combined, derived"
+PubMed_0790,"Any traditional action (traditional medicine, traditional home care or prayers) for sick under-five, last 2 weeks",,69.0,426.0,16.2,True,True,,A and B agreed, 
+PubMed_0795,Herbs used as first-line home treatment for child malaria (herbs alone 112 + herbs with shop drugs 30),,142.0,186.0,76.3,True,True,,A and B agreed, 
+Embase_0893,"Home remedies (incl. unripe pawpaw extract, sunlight, multivitamins) for significant jaundice",,,,98.2,False,False,"Combined home-remedy measure mixing non-traditional items (sunlight, multivitamin drops); numerator and denominator not reported.",A and B agreed," Combined home-remedy measure mixing non-traditional items (sunlight, multivitamin drops); numerator and denominator not reported."
+Embase_1160,Gave native medicine as home treatment for diarrhoea,,15.0,322.0,4.6,True,True,,A and B agreed, 
+Embase_1824,Herbal concoction given at home during convulsion (admitted children),herbal,2.0,50.0,4.0,True,True,,checker,"herbal or onion leaves up to 4/50 (8%); palm kernel oil 9/50 (18%); TM excl. crude oil 13/50; any 14/50 small series, records, retrieval 50/90"
+GIM_0002,"Herbal preparation used in home malaria treatment, alone (25) or with antimalarial (17)",,42.0,200.0,21.0,True,True,,A and B agreed, 
+GIM_0005,Herbal enema with water leaf (largest herbal item),herbal,79.0,252.0,31.3,True,True,,checker,"bitter leaf enema 47/252; any enema 169/252 (67.1%, includes non-herbal) lower bound, derived"
+GIM_0013,Used herbalist/herbs (alone or with hospital) for childhood malaria,,848.0,6259.0,13.5,True,True,,A and B agreed, 
+GIM_0017,Agbo (herbal) given to under-five as home management of malaria,,44.0,379.0,11.6,True,True,,A and B agreed, 
+GIM_0023,Largest single TM item: visit to native doctor before presentation (herbs applied also 7/13; overlap not reported),,7.0,13.0,53.8,True,True,,A and B agreed, 
+GIM_0040,Herbal substances on cord: other concoctions 504 + turmeric 15 (single-choice),herbal,519.0,12113.0,4.3,True,True,,checker,"other concoctions 504/12113; ash, dung, concoction, turmeric 920/12113 (7.6%) combined, derived"
+GIM_0042,Herbal medication before presenting to the public health facility (children with confirmed uncomplicated malaria),,171.0,860.0,19.9,True,True,,A and B agreed, 
+GIM_0044,Any CAM given to child on HAART (predominantly herbal concoctions and spiritual healing; vitamins excluded),,324.0,409.0,79.2,True,True,,A and B agreed, 
+GoogleScholar_0001,Lifetime use of herbal medicine for treatment of under-five ailments,,276.0,600.0,46.0,True,True,,A and B agreed, 
+GoogleScholar_0009,Herbal remedies given at home before presentation,,53.0,196.0,27.0,True,True,,A and B agreed, 
+GoogleScholar_0011,"Ever used CAM (traditional practices: massage, spiritual healing, herbs, palm oil, scarification, amulets) for their children",,301.0,415.0,72.5,True,True,,A and B agreed, 
+GoogleScholar_0014,Ever used herbs for child reported only as mean score 2.73 (scale 1-3),,,,,False,False,No proportion of users reported; herbal use given only as a mean Likert-type score. The 72% quoted is from a cited study.,A and B agreed, No proportion of users reported; herbal use given only as a mean Likert-type score. The 72% quoted is from a cited study.
+GoogleScholar_0015,Any traditional medicine use for under-five children (not 'never'),,405.0,430.0,94.2,True,True,,A and B agreed, 
+GoogleScholar_0016,Ever used traditional medicines at home for under-five children (alone or combined with western),,236.0,700.0,33.7,True,True,,A and B agreed, 
+GoogleScholar_0019,Used any herbal remedy for the child's current febrile illness,,370.0,633.0,58.5,True,True,,A and B agreed, 
+GoogleScholar_0020,No population prevalence: all 340 were herbal users by inclusion criteria,,340.0,340.0,100.0,False,False,"Among-users-only sample (non-users excluded by design); contributes to conditions, remedy types and adverse events only",A and B agreed," Among-users-only sample (non-users excluded by design); contributes to conditions, remedy types and adverse events only"
+GoogleScholar_0025,Ever used herbal remedies to prevent or treat childhood diseases,,389.0,400.0,97.3,True,True,,A and B agreed, 
+GoogleScholar_0031,"TMP consulted for childhood diarrhoea or fever/cough, Nigeria DHS 2018 (95% CI 2.73-4.22)",,,,3.4,True,True,"percent and 95% CI only (3.4%, 2.73-4.22); pool on logit with CI-derived SE",A and B agreed, 
+GoogleScholar_0034,Any traditional/spiritual practice (equals CAM users: all 91 CAM users reported prayers),,91.0,108.0,84.3,True,True,,A and B agreed, 
+GoogleScholar_0036,Oral herbs given at home for child's measles,herbal,162.0,277.0,58.5,True,True,,checker,palm oil on body 207/277 (74.7%); bitter leaf 157/277; shea butter mix 76/277; 162/253 home-treaters 
+GoogleScholar_0041,Herbal preparations given before hospital presentation,,5.0,256.0,2.0,True,True,,A and B agreed, 
+GoogleScholar_0043,Ever used medicinal plants to treat child's diarrhoea or malaria,,223.0,300.0,74.3,True,True,,A and B agreed, 
+GoogleScholar_0054,Local herbs given as home care for febrile child,,63.0,255.0,24.7,True,True,,A and B agreed, 
+GoogleScholar_0075,Used TEM on their children,,171.0,422.0,40.5,True,True,,A and B agreed, 
+GoogleScholar_0096,Herbal medicines given to infants ill in the past month,herbal,31.0,336.0,9.2,True,True,,checker,healer 16/336 (4.8%); 31/160 non-prescribed group; 31/736 all mothers 
+GoogleScholar_0102,Traditional healer as first place of care for child's illness,,19.0,422.0,4.5,True,True,,A and B agreed, 
+GoogleScholar_0120,Herbal medicine as home management of child diarrhoea (two communities combined),,100.0,700.0,14.3,True,True,,A and B agreed, 
+GoogleScholar_0157,Herbal solution applied to umbilical cord during cord care,,80.0,107.0,74.8,True,True,,A and B agreed, 
+GoogleScholar_0167,Herbal concoction used to treat neonatal jaundice (largest single TM item),,29.0,240.0,12.1,True,True,,A and B agreed, 
+GoogleScholar_0184,Herbal concoction given as home remedy before presentation,,,,5.6,False,False,"Among home-remedy users only, with no stated numerator or denominator; not a proportion of the 53 children",A and B agreed," Among home-remedy users only, with no stated numerator or denominator; not a proportion of the 53 children"
+GoogleScholar_0206,Herbs given at onset of child's diarrhoea (largest single TM item; overlap with traditional healer unknown),,17.0,379.0,4.5,True,True,,A and B agreed, 
+GoogleScholar_0240,Herbal preparations alone or with antimalarials (exclusive Table 2 categories summed),,66.0,200.0,33.0,True,True,,A and B agreed, Sum of mutually exclusive categories in Table 2; herbal alone 54/200 (27.0%) for sensitivity.
+GoogleScholar_0294,History of herbal medication ingestion (derived sum across proteinuria groups),,191.0,406.0,47.0,False,False,"Association-only paper; overall prevalence not reported; Table 4 denominators inconsistent (45/188 printed, 38.1% implies 118; 406 vs 405 screened); recall and definition not stated.",A and B agreed," Association-only paper; overall prevalence not reported; Table 4 denominators inconsistent (45/188 printed, 38.1% implies 118; 406 vs 405 screened); recall and definition not stated."
+OpenAlex_grey_0008,Ever used antimalarial herbal decoction for child aged 0-5,,140.0,300.0,46.7,True,True,,A and B agreed, 
+OpenAlex_grey_0049,Herbs given for childhood pneumonia in last 2 weeks (companion record; overall prevalence taken from PubMed_0420),,1.0,110.0,0.9,False,False,companion of PubMed_0420 (same survey); pool PubMed_0420,A and B agreed, Same Cross River survey as included PubMed_0420; use PubMed_0420 for pooled prevalence; this thesis contributes the pneumonia-specific figure only (subgroup/narrative)
+Other_0001,Herbal product used for cord cleaning (largest single TM item),,336.0,811.0,41.4,True,True,,A and B agreed, 
+Other_0005,Herbal medication given for enuresis,,5.0,263.0,1.9,True,True,,A and B agreed, 
+PubMed_0108,"Herbal medicine ever used for common childhood diseases (always, sometimes or rarely)",,294.0,332.0,88.6,True,True,,A and B agreed, 
+PubMed_0208,Hot fomentation with herbs on the umbilicus after cord separation (largest single TM item),,49.0,565.0,8.7,True,True,,A and B agreed, 
+PubMed_0501,Spiritual healing/prayer for HIV-infected child (largest single TM item),,181.0,187.0,96.8,True,True,,A and B agreed, 
+PubMed_0524,Herbal preparations for epilepsy (largest single TM item; overall CAM 99/175 includes commercial vitamins/supplements),,69.0,175.0,39.4,True,True,,A and B agreed, 
+PubMed_0538,Prayer houses/faith healers or traditional healers as first point of contact (exclusive categories summed),,115.0,393.0,29.3,True,True,,A and B agreed, First-contact categories in Table 1 are mutually exclusive (total 393). Includes 18-year-olds (share not reported): sensitivity analysis advised.
+PubMed_0608,Traditional healer used for treatment of child's presumptive malaria episode,,6.0,540.0,1.1,True,True,,A and B agreed, 
+PubMed_0611,Herbal medicine first-line home treatment for current diarrhoea,,223.0,4386.0,5.1,True,True,,A and B agreed, 
+PubMed_0620,Herbal remedy (water extract of unripe pawpaw) given at home to jaundiced newborn before admission,,32.0,182.0,17.6,True,True,,A and B agreed, 
+PubMed_0654,Traditional eye medication for pupils' eye diseases,,83.0,1069.0,7.76,True,True,,A and B agreed, 
+PubMed_0683,Used herbs as first action for child's febrile illness in the past month,,19.0,400.0,4.8,True,True,,A and B agreed, 
+PubMed_0704,Herbal medicine or traditional healer as first action for child's malaria,,39.0,326.0,12.0,True,True,,A and B agreed, 
+PubMed_0750,Herbal concoctions given before hospital presentation (largest single TM item),,6.0,75.0,8.0,True,True,,A and B agreed, 
+PubMed_0761,Mothers who took child to traditional healers before hospital,,13.0,36.0,36.1,True,True,,A and B agreed, 
+PubMed_0783,First action for child's malaria was traditional healer (16) or prayer house (42),,58.0,1260.0,4.6,True,True,,A and B agreed, 
+PubMed_0833,Agbo (herbal tea) given to infant during first 4 months,,400.0,411.0,97.3,True,True,,A and B agreed, Numerator derived from 97.3% x 411. Use is largely preventive/nutritional rather than for a specific illness.
+PubMed_0843,"First-line care was home herbs, indigenous healer or faith healer",,375.0,3006.0,12.5,True,True,,A and B agreed, 
+PubMed_0849,Prayers or herbs/roots given to asphyxiated newborns in unorthodox delivery facilities,combined TM,26.0,48.0,54.2,False,False,"provider-administered, small series",checker,"prayers 21/48; herbs/roots 5/48 provider-administered, small series"
+PubMed_0853,Herbal preparation used for the diarrhoea episode among 80 children who developed diarrhoea,,3.0,80.0,3.8,True,True,,A and B agreed, 

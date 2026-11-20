@@ -1,0 +1,424 @@
+rec_id,label,tm_type,condition,recall,unit,numerator,denominator,percent,source
+AJOL_0008,Patronize prayer house for common childhood illnesses,spiritual/faith,"common childhood illnesses (fever, cough, diarrhoea/vomiting)",usual practice,caregivers,9.0,300.0,3.0,"Table 2 (health practice), Results p38"
+AJOL_0008,Patronize native doctor (traditional healer),traditional healer,common childhood illnesses,usual practice,caregivers,3.0,300.0,1.0,"Table 2, Results p38"
+AJOL_0011,Traditional healer as place where treatment was first sought for child's suspected malaria in past month,traditional healer,malaria/fever,last illness,caregivers,13.0,176.0,7.4,Table 4
+AJOL_0015,Households using health facility and unorthodox method (herbalist/spiritual homes),combined TM,"childhood illnesses, past year",usual practice,caregivers,35.0,140.0,25.0,Table VI
+AJOL_0015,Households using unorthodox method only,combined TM,"childhood illnesses, past year",usual practice,caregivers,3.0,140.0,2.1,Table VI (printed as 2.4%)
+AJOL_0015,"Any unorthodox method (alone or with facility), derived 35+3 (mutually exclusive rows)",combined TM,"childhood illnesses, past year",usual practice,caregivers,38.0,140.0,27.1,"Table VI, derived"
+AJOL_0018,Action taken when child has ARI: treat at home with native remedies,home remedy incl. herbs,ARI,usual practice,caregivers,192.0,346.0,55.5,Table 3; Results text
+AJOL_0018,Action taken when child has ARI: visit native doctor,traditional healer,ARI,usual practice,caregivers,32.0,346.0,9.2,Table 3
+AJOL_0018,Action taken when child has ARI: pray,spiritual/faith,ARI,usual practice,caregivers,1.0,346.0,0.3,Table 3
+AJOL_0022,Mothers/caregivers who patronised herbalists side by side with orthodox medical attention for acute watery diarrhoea,traditional healer,acute watery diarrhoea,current episode,caregivers,85.0,200.0,42.5,"Abstract and Results text, p46"
+AJOL_0025,Taken to alternative sources of health care before hospital presentation,combined TM,childhood cancer,before admission,children,28.0,91.0,30.8,Results p182
+AJOL_0025,Visited traditional herbal healers,traditional healer,childhood cancer,before admission,children,17.0,91.0,18.7,Results p182
+AJOL_0025,Visited Christian religious faith healers,spiritual/faith,childhood cancer,before admission,children,15.0,91.0,16.5,Results p182
+AJOL_0025,Visited Islamic religious healers,spiritual/faith,childhood cancer,before admission,children,15.0,91.0,16.5,Results p182
+AJOL_0031,Pre-hospital treatment by traditional healer or church (exclusive place categories),combined TM,malaria (cerebral and uncomplicated),current episode,children,29.0,128.0,22.7,Table 4
+AJOL_0031,Pre-hospital treatment by traditional healer,traditional healer,malaria,current episode,children,8.0,128.0,6.3,"Table 4 (1/64 controls, 7/64 cases)"
+AJOL_0031,Pre-hospital treatment in church,spiritual/faith,malaria,current episode,children,21.0,128.0,16.4,"Table 4 (12/64 controls, 9/64 cases)"
+AJOL_0031,Fresh abdominal scarification,other: traditional scarification,malaria,current episode,children,9.0,128.0,7.0,Table 4
+AJOL_0044,Smeared the child's body with herbal preparations (home management of febrile convulsion),herbal,febrile convulsion,usual practice,caregivers,45.0,125.0,36.0,Table 3
+AJOL_0044,Made small incisions on the child's body and took to a herbalist,traditional healer,febrile convulsion,usual practice,caregivers,30.0,125.0,24.0,Table 3
+AJOL_0044,Poured cow's urine on the child's body,home remedy incl. herbs,febrile convulsion,usual practice,caregivers,37.0,125.0,29.6,Table 3
+AJOL_0044,Child with FC treated by traditional healers (among those who had cared for a child with FC and gave place of treatment),traditional healer,febrile convulsion,last illness,children,2.0,72.0,2.8,Table 3
+AJOL_0044,Child with FC treated at church/spiritual home,spiritual/faith,febrile convulsion,last illness,children,3.0,72.0,4.2,Table 3
+AJOL_0051,Other fluid used in treatment of diarrhoea: herbal concoction,herbal,diarrhoea,usual practice,caregivers,119.0,244.0,48.8,Table 4; Results p3
+AJOL_0067,Application of native medication as home treatment of nappy rash (among babies with nappy rash in last 6 months),herbal,nappy rash,other,children,1.0,48.0,2.1,Table 6; recall = nappy rash in preceding 6 months
+AJOL_0075,Use of herbs as treatment for neonatal jaundice among mothers who previously had a jaundiced baby,herbal,neonatal jaundice,ever,caregivers,32.0,89.0,36.0,"Table 3 (treatment modalities, n=89, multiple responses)"
+AJOL_0075,"Use of herbs (abstract, as % of all respondents?)",herbal,neonatal jaundice,ever,caregivers,,,37.2,Abstract (inconsistent with Table 3)
+AJOL_0075,Cow dung application for umbilical cord care,home remedy incl. herbs,cord care,usual practice,caregivers,14.0,172.0,8.1,Table 2
+AJOL_0085,Herbal drink given at home for diarrhoea (all children),herbal,diarrhoea,before admission,children,1.0,100.0,1.0,Table 6 (count) / Results
+AJOL_0085,Herbal drink as reported in paper among medication entries,herbal,diarrhoea,before admission,children,1.0,73.0,1.4,Table 6
+AJOL_0085,Local enema given at home (contents unspecified),home remedy incl. herbs,diarrhoea,before admission,children,8.0,73.0,11.0,Table 6
+AJOL_0087,Prayer water given as home remedy,spiritual/faith,poisoning,before admission,admissions,1.0,31.0,3.2,Table 3
+AJOL_0094,Types of home remedy: herbal mixtures,herbal,acute illness presenting to emergency room,before admission,children,2.0,75.0,2.7,Table III
+AJOL_0094,Other places previously visited for care: herbal homes,traditional healer,acute illness presenting to emergency room,before admission,children,1.0,24.0,4.2,Table III (percent of those who visited other places)
+AJOL_0111,"Sought religious remedies before presentation, among neonates with delay in presentation",spiritual/faith,neonatal illness,before admission,children,5.0,151.0,3.3,"Results, 'Care given before presentation', p119-120"
+AJOL_0111,"Religious issues cited as reason for delay in presentation (qualitative theme, among delayed)",spiritual/faith,neonatal illness,before admission,children,10.0,151.0,6.6,"Results, reasons for delay, p121-122"
+AJOL_0139,"Traditional healers as place where caregivers seek treatment for febrile child, rural",traditional healer,childhood fever/malaria,usual practice,caregivers,,678.0,4.8,Table 3
+AJOL_0139,"Traditional healers as place where caregivers seek treatment for febrile child, urban",traditional healer,childhood fever/malaria,usual practice,caregivers,,794.0,2.4,Table 3
+AJOL_0142,"First response: give herbs, traditional healer or traditional home management (exclusive first-response categories)",combined TM,childhood fever,current episode,caregivers,141.0,2210.0,6.4,Table 2
+AJOL_0142,First response: give herbs,herbal,childhood fever,current episode,caregivers,43.0,2210.0,1.9,Table 2
+AJOL_0142,First response: traditional healer,traditional healer,childhood fever,current episode,caregivers,18.0,2210.0,0.8,Table 2
+AJOL_0142,First response: traditional home management,combined TM,childhood fever,current episode,caregivers,80.0,2210.0,3.6,Table 2
+AJOL_0157,Take their sick child to traditional healers first,traditional healer,general/any illness,usual practice,caregivers,56.0,420.0,13.3,Table 3
+AJOL_0167,"Traditional drugs given at home before presentation, 1993/94",herbal,diarrhoea,before admission,children,85.0,891.0,9.5,Table II
+AJOL_0167,"Traditional drugs given at home before presentation, 1997/98",herbal,diarrhoea,before admission,children,1.0,109.0,0.9,Table II
+AJOL_0169,Households that used plant and plant materials as alternative medicine (home remedy) for intestinal worms,herbal,intestinal worms,usual practice,caregivers,518.0,956.0,54.2,"Results, Table 9 (Table 3.9)"
+AJOL_0169,Management practice: self-treatment with home remedy,home remedy incl. herbs,intestinal worms,usual practice,caregivers,122.0,956.0,12.8,Table 6
+AJOL_0169,Management practice: visit trado-medicine practitioner,traditional healer,intestinal worms,usual practice,caregivers,98.0,956.0,10.3,Table 6
+AJOL_0169,Management practice: faith,spiritual/faith,intestinal worms,usual practice,caregivers,40.0,956.0,4.2,Table 6
+AJOL_0169,"Main management practice home remedy, trado-medicine or faith (mutually exclusive categories summed)",combined TM,intestinal worms,usual practice,caregivers,260.0,956.0,27.2,Table 6 (computed by extractor: 122+98+40)
+AJOL_0169,Resorted to faith when child not recovering after days of treatment,spiritual/faith,intestinal worms,other,caregivers,90.0,500.0,18.0,Table 8
+AJOL_0208,Neonates given traditional medicine (exposure history before/at presentation),combined TM,neonatal jaundice,before admission,children,5.0,100.0,5.0,"Results, 'Exposure to icterogenic substances' and Abstract"
+AJOL_0218,Herbal preparation applied to umbilical cord,herbal,cord care,usual practice,caregivers,20.0,577.0,3.5,Results text; Table 3
+AJOL_0226,Mothers whose child was sick in past year who used herbal drugs on the child,herbal,any illness in past year,other,caregivers,58.0,103.0,56.3,Results text p.342 (printed as 59.74%)
+AJOL_0226,Concurrent use of orthodox and herbal drugs for under-five children,herbal,infant health problems,usual practice,caregivers,21.0,190.0,11.05,Tables 1-4
+AJOL_0249,Injured child received treatment from herbal/traditional bone setters (text),traditional healer,childhood injury in previous 12 months,other,children,8.0,602.0,1.3,Results text (602 respondents recalled injury in past 12 months)
+AJOL_0249,Treatment after injury: herbal home (Table 3),combined TM,childhood injury,other,caregivers,15.0,1088.0,1.4,"Table 3 (denominator is all respondents, inconsistent with text)"
+AJOL_0272,Herbal treatment used for nocturnal enuresis,herbal,nocturnal enuresis,other,children,15.0,187.0,8.0,"Table 2, p80"
+Embase_0009,Herb used to clean/cover the umbilical cord,herbal,umbilical cord care,usual practice,caregivers,2.0,167.0,1.2,Table 6 (paper reports 0.7% of responses)
+Embase_0293,"Used traditional/unhygienic materials for cord care (charcoal, herbs, cow dung/urine, lubricants, ash, balm)",combined TM,umbilical cord care,usual practice,children,26.0,60.0,43.3,"Results text, Table 2"
+Embase_0293,Local herbs as cord material (27% of the 26 users),herbal,umbilical cord care,usual practice,children,,60.0,,Fig 1 (percent of users only)
+Embase_0401,"Used traditional medication (oral/topical) before presentation, patients <18 years (sum of age groups <1, 1-4, 5-12, 13-17)",herbal,skin disorders,before admission,children,37.0,132.0,28.0,Table: age vs place visited/medication
+Embase_0401,"Used traditional medication, all ages",herbal,skin disorders,before admission,children,41.0,166.0,24.7,Medication table
+Embase_0401,"Visited traditional healers before presentation, all ages",traditional healer,skin disorders,before admission,children,36.0,166.0,21.7,Avenues of treatment table
+Embase_0401,"Visited faith-based healers, all ages",spiritual/faith,skin disorders,before admission,children,7.0,166.0,4.2,Avenues of treatment table
+Embase_0428,"Administered other remedies, mainly of herbal origin, since birth",home remedy incl. herbs,any,ever,caregivers,354.0,782.0,45.3,Results p227
+Embase_0428,Medicines recommended by traditional midwife (drug-level count),traditional healer,any,ever,illness episodes,6.0,2236.0,0.3,"Table 2 (unit = medicines, not children)"
+Embase_0432,Prayed or sought supernatural healing to treat epistaxis,spiritual/faith,epistaxis,current episode,caregivers,500.0,570.0,87.72,Table 6
+Embase_0432,Used local herb extracts to treat epistaxis,herbal,epistaxis,current episode,caregivers,450.0,570.0,78.95,Table 6
+Embase_0470,Usual source of help for child infection: traditional healer,traditional healer,"child infections (cough, diarrhoea, malaria, typhoid, ear infection)",usual practice,caregivers,,620.0,1.1,Table 2
+Embase_0470,Usual source of help: church/prayer house,spiritual/faith,child infections,usual practice,caregivers,,620.0,0.6,Table 2
+Embase_0470,'Wrong HSB': church or traditional medicine practitioner,combined TM,child infections,usual practice,caregivers,,620.0,1.7,"Results text p4-5, Table 2"
+Embase_0471,Herbal concoctions as medication given for malaria symptoms,herbal,malaria,usual practice,caregivers,215.0,968.0,22.2,Table 2
+Embase_0471,Go to traditional healers to manage malaria,traditional healer,malaria,usual practice,caregivers,154.0,968.0,15.9,Table 2
+Embase_0471,Drugs from faith-based healing homes for malaria,spiritual/faith,malaria,usual practice,caregivers,14.0,968.0,1.5,Table 2
+Embase_0471,Herbal concoctions for otitis media,herbal,otitis media,usual practice,caregivers,87.0,968.0,8.9,Table 3
+Embase_0471,Herbal concoctions for gastro-enteritis,herbal,diarrhoea/vomiting,usual practice,caregivers,92.0,968.0,9.5,Table 4
+Embase_0471,Herbal concoctions for measles,herbal,measles,usual practice,caregivers,343.0,968.0,35.4,Table 5
+Embase_0471,Go to traditional healers for measles,traditional healer,measles,usual practice,caregivers,250.0,968.0,25.8,Table 5
+Embase_0471,Herbal concoctions for mumps,herbal,mumps,usual practice,caregivers,210.0,968.0,21.7,Table 6
+Embase_0471,Go to traditional healers for mumps,traditional healer,mumps,usual practice,caregivers,237.0,968.0,24.5,Table 6
+Embase_0471,Herbal concoctions for acute respiratory infection,herbal,ARI,usual practice,caregivers,60.0,968.0,6.2,Table 7
+Embase_0471,Go to traditional healers for ARI,traditional healer,ARI,usual practice,caregivers,184.0,968.0,19.0,Table 7
+Embase_0471,Herbal concoctions for febrile convulsion,herbal,febrile convulsion,usual practice,caregivers,208.0,968.0,21.5,Table 8
+Embase_0471,Go to traditional healers for febrile convulsion,traditional healer,febrile convulsion,usual practice,caregivers,105.0,968.0,10.9,Table 8
+Embase_0561,Children who routinely ingested local herbs to prevent malaria,herbal,malaria prevention,usual practice,children,151.0,357.0,42.3,Table 2; Results p.355
+Embase_0561,Local herbs as the only malaria prevention method,herbal,malaria prevention,usual practice,children,26.0,357.0,7.3,Results p.355 (26 of 103 single-method users)
+Embase_0610,Action on 1st day of child's fever: herbal medicine (derived from education-group percentages),herbal,suspected malaria/fever,usual practice,caregivers,45.0,94.0,47.9,Table 2 (69.23% of 39 + 45.45% of 33 + 13.64% of 22)
+Embase_0618,Herbal concoction given as pre-hospital care,herbal,acute critical illness,before admission,children,12.0,554.0,2.2,"Table 1 (Results, baseline characteristics)"
+Embase_0719,Herbal preparation given for teething,herbal,teething,usual practice,caregivers,46.0,516.0,8.9,Table 3
+Embase_0719,Faith-based therapies for teething,spiritual/faith,teething,usual practice,caregivers,16.0,516.0,3.1,Table 3
+Embase_0719,Treated teething at a traditional centre,traditional healer,teething,usual practice,caregivers,6.0,516.0,1.2,Table 5
+Embase_0719,Treated teething at a mission home,spiritual/faith,teething,usual practice,caregivers,3.0,516.0,0.6,Table 5
+Embase_0750,Reason for home treatment: use native medications e.g. agbo,herbal,sickle cell disease illness,usual practice,caregivers,3.0,314.0,1.0,"Results, socio-economic correlates of home treatment"
+Embase_0750,Reason for home treatment: religious/traditional beliefs,spiritual/faith,sickle cell disease illness,usual practice,caregivers,2.0,314.0,0.6,Results
+Embase_0979,Herbs used for cord care,herbal,cord care,usual practice,caregivers,,110.0,15.0,Abstract P354 results
+Embase_0979,Garlic and ginger used for cord care,herbal,cord care,usual practice,caregivers,,110.0,4.0,Abstract P354 results
+Embase_1077,Herbal concoction given as home intervention before presentation,herbal,poisoning,before admission,admissions,19.0,81.0,23.5,Table 1
+Embase_1152,Pre-hospital native concoctions,herbal,malaria-induced anaemia,before admission,children,29.0,160.0,18.1,Table III
+Embase_1152,Pre-hospital scarification marks,combined TM,malaria-induced anaemia,before admission,children,16.0,160.0,10.0,Table III
+Embase_1152,Place of pre-hospital treatment: herbalist,traditional healer,malaria-induced anaemia,before admission,children,6.0,160.0,3.8,Table III
+Embase_1152,Place of pre-hospital treatment: prayer houses,spiritual/faith,malaria-induced anaemia,before admission,children,6.0,160.0,3.8,Table III
+Embase_1152,Place of pre-hospital treatment: spiritualist,spiritual/faith,malaria-induced anaemia,before admission,children,3.0,160.0,1.9,Table III
+Embase_1156,First action: home treatment with herbs/native medicine (children with malaria in 2 weeks before survey),herbal,malaria,last 2 weeks,children,69.0,185.0,37.3,Table 3
+Embase_1156,"First action: traditional home care (balms, pepper soup)",home remedy incl. herbs,malaria,last 2 weeks,children,36.0,185.0,19.5,Table 3
+Embase_1156,Herbs/native medicine first action as share of all mother-child pairs,herbal,malaria,last 2 weeks,caregivers,69.0,330.0,20.9,Table 3 numerator / total sample (computed)
+Embase_1156,Source of drugs for home treatment: traditional practitioner,traditional healer,malaria,last 2 weeks,children,1.0,185.0,0.5,Table 5
+Embase_1187,"Opted for alternative care (spiritual deliverance, prayers, herbal preparation among others) before presenting in hospital",combined TM,childhood cancer,before admission,caregivers,70.0,100.0,70.0,"Abstract P-326, Results"
+Embase_1256,Use of CAM in children (all adult respondents),CAM (any),any,ever,caregivers,240.0,500.0,48.0,Table 2
+Embase_1384,Nigeria 2008: treatment choice for childhood diarrhoea = traditional healer/herbalist,traditional healer,diarrhoea,last 2 weeks,caregivers,83.0,2396.0,3.5,Table 1 (Nigeria row; percent computed)
+Embase_1718,Used local herbs alone before bringing child to clinic,herbal,febrile illness,current episode,caregivers,7.0,200.0,3.5,Table 2
+Embase_1718,Combined traditional herbs with orthodox drugs before clinic,herbal,febrile illness,current episode,caregivers,19.0,200.0,9.5,Table 2
+Embase_1718,"Any herbs (alone or with orthodox drugs), all mothers",herbal,febrile illness,current episode,caregivers,26.0,200.0,13.0,Table 2 (mutually exclusive categories summed)
+Embase_1718,Any herbs among mothers who took an action before clinic,herbal,febrile illness,current episode,caregivers,26.0,162.0,16.0,Table 2
+GIM_0030,Mothers who used herbal medicines in neonates/infants,herbal,common infant ailments,ever,caregivers,56.0,78.0,71.8,Results text (72%)
+GoogleScholar_0040,Ever used traditional eye medicine (TEM) in child's eyes,combined TM,eye conditions,ever,caregivers,139.0,320.0,43.4,Results; abstract (95% CI 37.9-49.1)
+GoogleScholar_0040,Breast milk in eyes,home remedy incl. herbs,eye conditions,ever,caregivers,84.0,320.0,26.3,Table 2
+GoogleScholar_0040,Antimony granules (otangele),combined TM,eye conditions,ever,caregivers,81.0,320.0,25.3,Table 2
+GoogleScholar_0040,Plant extract,herbal,eye conditions,ever,caregivers,1.0,320.0,0.3,Table 2
+GoogleScholar_0040,Holy water,spiritual/faith,eye conditions,ever,caregivers,6.0,320.0,1.9,Table 2
+GoogleScholar_0064,"Normally/sometimes use herbal drugs for children's illnesses (fever, convulsion, teething, diarrhoea)",herbal,any,usual practice,caregivers,147.0,182.0,80.8,Results; Table 4
+OpenAlex_grey_0014,Herbal preparation (agbo) given for child malaria fever: always or occasionally,herbal,malaria fever,usual practice,caregivers,715.0,837.0,85.4,Table 3 (computed: always 518 + occasional 197)
+OpenAlex_grey_0014,Always give herbal preparation (agbo) for child malaria fever,herbal,malaria fever,usual practice,caregivers,518.0,837.0,61.9,Table 3
+PubMed_0011,First source of treatment: traditional healer's home,traditional healer,uncomplicated malaria,current episode,caregivers,2.0,350.0,0.6,Table 4
+PubMed_0011,"First source of treatment: church, mosque/faith homes",spiritual/faith,uncomplicated malaria,current episode,caregivers,2.0,350.0,0.6,Table 4
+PubMed_0011,First source traditional healer or faith home (mutually exclusive categories summed),combined TM,uncomplicated malaria,current episode,caregivers,4.0,350.0,1.1,Table 4 (computed)
+PubMed_0063,Traditional medicines/herbs given at home before attending CORP or PHC,herbal,suspected severe malaria,current episode,children,48.0,589.0,8.1,Table 3 (22 CORP + 26 PHC)
+PubMed_0063,Traditional medicines/herbs among children given any home treatment,herbal,suspected severe malaria,current episode,children,48.0,219.0,21.9,Table 3
+PubMed_0064,Treated the child with herbs at home,herbal,"suspected malaria, past 12 months",last illness,caregivers,76.0,283.0,26.9,Table 4 (printed 25.2% using N=301)
+PubMed_0064,Visited a spiritualist with child for prayers,spiritual/faith,suspected malaria,last illness,caregivers,25.0,283.0,8.8,Table 4 (printed 8.3%)
+PubMed_0064,Visited a traditional healer for treatment,traditional healer,suspected malaria,last illness,caregivers,11.0,283.0,3.9,Table 4 (printed 3.2%)
+PubMed_0064,"Any TM (herbs, spiritualist or traditional healer), derived; categories mutually exclusive (sum to 283)",combined TM,suspected malaria,last illness,caregivers,112.0,283.0,39.6,"Table 4, derived"
+PubMed_0070,Type of health service accessed for malaria treatment: traditional medicine,traditional healer,malaria/fever,last 2 weeks,caregivers,22.0,893.0,2.5,Table 4
+PubMed_0074,Action for suspected anaemia symptoms: relied on traditional or home remedies (vs hospital visit),home remedy incl. herbs,symptoms suggestive of anaemia,usual practice,caregivers,81.0,215.0,37.7,Table 4 and Results text
+PubMed_0079,Herbal products used for sickle cell crisis pain (past year),herbal,sickle cell crisis pain,other,children,36.0,123.0,29.3,Table 3 (36 = 38% of 94 NPI users)
+PubMed_0079,Prayer used for sickle cell crisis pain (past year),spiritual/faith,sickle cell crisis pain,other,children,28.0,123.0,22.8,Table 3 (28 = 30% of 94 NPI users)
+PubMed_0079,Herbal products among NPI users,herbal,sickle cell crisis pain,other,children,36.0,94.0,38.3,Table 3
+PubMed_0132,Reason for not taking sick under-five to a health facility: use traditional medicine,combined TM,any illness in last 6 months,other,caregivers,23.0,386.0,6.0,Table 3
+PubMed_0182,"Traditional medicine as home treatment before seeking care, children with ARI symptoms",herbal,ARI/pneumonia,last 2 weeks,children,13.0,536.0,2.4,Table 2
+PubMed_0182,"Traditional medicine as home treatment, acute illness without ARI symptoms",herbal,other acute illness,last 2 weeks,children,2.0,260.0,0.8,Table 2
+PubMed_0182,"Traditional healer as first location of care, children with ARI taken for care",traditional healer,ARI/pneumonia,last 2 weeks,children,5.0,173.0,2.9,Table 2
+PubMed_0182,"Traditional medicine received after seeking care, children with ARI taken for care",herbal,ARI/pneumonia,last 2 weeks,children,11.0,173.0,6.4,Table 2
+PubMed_0192,Used prayers to treat suspected malaria,spiritual/faith,malaria,usual practice,caregivers,35.0,283.0,12.4,Results p1123 (numerator derived from %)
+PubMed_0192,Used agbo (local liquid extract of plants and roots),herbal,malaria,usual practice,caregivers,29.0,283.0,10.2,Results p1123 (numerator derived from %)
+PubMed_0192,Preferred/best treatment: agbo,herbal,malaria,other,caregivers,37.0,283.0,13.2,"Abstract/Results (preference, numerator derived)"
+PubMed_0192,Preferred/best treatment: prayers,spiritual/faith,malaria,other,caregivers,35.0,283.0,12.5,"Abstract/Results (preference, numerator derived)"
+PubMed_0219,Home treatment: herbal/native concoction,herbal,epilepsy,ever,caregivers,33.0,95.0,34.7,Table 2
+PubMed_0219,First point of care outside home unorthodox (traditional/herbal/spiritual),combined TM,epilepsy,other,caregivers,15.0,95.0,15.8,Table 2
+PubMed_0223,Gave traditional (or herbal) medicine to child during diarrhoea episode,herbal,diarrhoea,usual practice,caregivers,127.0,360.0,35.3,"Table 5 ('Other drugs given', multiple responses)"
+PubMed_0223,Help sought during diarrhoea episode from herbalist/traditional medicine sellers,traditional healer,diarrhoea,usual practice,caregivers,84.0,360.0,24.2,Table 5 (84/360 = 23.3%; paper reports 24.2%)
+PubMed_0227,AKI caused by toxins/herbal medications,herbal,acute kidney injury,before admission,children,5.0,29.0,17.2,Table 2
+PubMed_0255,Sought care with traditional practitioners,traditional healer,fever/malaria-like illness,last 2 weeks,children,136.0,1310.0,10.4,"Abstract and Discussion (Results text and Fig 1 give 128, 9.8%)"
+PubMed_0255,Took a traditional medicine (herb or root),herbal,fever/malaria-like illness,last 2 weeks,children,74.0,1310.0,5.6,"Results, Drug use"
+PubMed_0255,First sought care with traditional practitioners among those using >1 source,traditional healer,fever,last 2 weeks,children,50.0,169.0,29.6,"Results, care-seeking"
+PubMed_0267,Initial place of care before presentation: neighbours/traditional doctors,combined TM,severe malaria,current episode,caregivers,17.0,120.0,14.0,Results text
+PubMed_0275,SCD: received treatment at faith-based centres (outside the hospital),spiritual/faith,sickle cell disease,other,children,27.0,110.0,24.5,Table 2
+PubMed_0275,SCD: prayer at faith-based (religious) centres within past 1 year,spiritual/faith,sickle cell disease,other,children,27.0,110.0,24.5,Table 2
+PubMed_0275,SCD: traditional care centre / herbal medicines at traditional healing centre,traditional healer,sickle cell disease,other,children,10.0,110.0,9.1,Table 2
+PubMed_0275,SCD: scarifications at traditional healing centre,traditional healer,sickle cell disease,other,children,8.0,110.0,7.3,Table 2
+PubMed_0275,Controls (other chronic conditions): faith-based centres,spiritual/faith,"other chronic conditions (epilepsy/seizures, asthma, etc.)",other,children,11.0,110.0,10.0,Table 2 (printed 9.0%)
+PubMed_0275,Controls: prayer at faith-based centres within past 1 year,spiritual/faith,other chronic conditions,other,children,25.0,110.0,22.7,Table 2
+PubMed_0275,Controls: traditional care / herbal medicines at traditional healing centre,traditional healer,other chronic conditions,other,children,6.0,110.0,5.5,Table 2
+PubMed_0295,Care sought from religious leaders/herbal treatment homes for fever in last 2 weeks,combined TM,fever,last 2 weeks,children,10.0,441.0,2.3,Table 2
+PubMed_0295,"Religious leaders/herbal, rural",combined TM,fever,last 2 weeks,children,2.0,258.0,0.8,Table 2
+PubMed_0295,"Religious leaders/herbal, urban",combined TM,fever,last 2 weeks,children,8.0,183.0,4.4,Table 2
+PubMed_0295,Religious leaders/traditional-herbal homes among mothers who sought care within 48 h,combined TM,fever,last 2 weeks,caregivers,5.0,155.0,3.2,Results text
+PubMed_0305,Treatment from traditional healer for previously jaundiced infant,traditional healer,neonatal jaundice,last illness,caregivers,24.0,117.0,20.5,Results; Table 2
+PubMed_0305,Planned future treatment from traditional healer,traditional healer,neonatal jaundice,other,caregivers,18.0,361.0,5.0,Table 2
+PubMed_0305,"Home remedies (sunlight, raw pawpaw, glucose water, breast milk) for previous jaundice",home remedy incl. herbs,neonatal jaundice,last illness,caregivers,14.0,117.0,12.0,Results
+PubMed_0328,Traditional practitioner as place where treatment was first sought,traditional healer,fever,last 2 weeks,caregivers,16.0,553.0,2.9,Table 2
+PubMed_0328,Herbs given to child during fever,herbal,fever,last 2 weeks,caregivers,13.0,553.0,2.4,Table 2
+PubMed_0348,Parental management of dental conditions: use of local herbs,herbal,dental problems,usual practice,children,80.0,227.0,35.3,Table 1 (n=227 pupils reporting dental problems)
+PubMed_0351,"Use of traditional remedies for ARI (author category, includes Mentholatum and kerosene)",home remedy incl. herbs,ARI,usual practice,caregivers,192.0,346.0,55.5,Table 5
+PubMed_0351,Apply shea butter oil (orioyo),herbal,ARI,usual practice,caregivers,163.0,346.0,47.1,Table 5 (paper prints 81.1% of users)
+PubMed_0351,Apply scent leaf (Ocimum gratissimum),herbal,ARI,usual practice,caregivers,12.0,346.0,3.5,Table 5
+PubMed_0351,Steam inhalation with herbs,herbal,ARI,usual practice,caregivers,3.0,346.0,0.9,Table 5
+PubMed_0387,"Local herbs applied as cord dressing at last delivery, Bauchi State (approx., unchanged 2012-2015, weighted)",herbal,umbilical cord care,other,children,,380.0,4.0,"Results 'Materials used to dress umbilical cord stumps', Fig 5"
+PubMed_0387,"Local herbs as cord dressing, Sokoto State",herbal,umbilical cord care,other,children,,437.0,,Results text ('largely unchanged'; value only in Fig 5)
+PubMed_0387,"Cow dung as cord dressing, Bauchi 2012 / Sokoto 2013 spike",home remedy incl. herbs,umbilical cord care,other,children,,380.0,2.9,"Results text (Bauchi 2012 2.9%, 0.3% in 2013 and 2015; Sokoto ~0.3% in 2012/2015, ~12% in 2013)"
+PubMed_0395,Herbal preparation used as pre-hospital treatment of dog bite,herbal,dog bite,before admission,children,34.0,84.0,40.5,Results text
+PubMed_0395,Scarification marks and tying bite site with ropes (traditional first aid),home remedy incl. herbs,dog bite,before admission,children,8.0,84.0,9.6,Results text
+PubMed_0399,Herbs applied into discharging ear,herbal,ear discharge,before admission,children,17.0,23.0,73.9,Table 2
+PubMed_0399,Consulted traditional healers or spiritual houses at onset of tetanus symptoms,combined TM,otogenic tetanus symptoms,before admission,children,5.0,23.0,21.7,Table 3 (2 traditional healers + 3 spiritual houses; 4 patent medicine shops excluded)
+PubMed_0401,CAM use among patients aged <=18 years (derived),CAM (any),sickle cell disease,ever,children,96.0,107.0,89.7,Table 3 (users >18 = 81/177; non-users >18 = 12/23)
+PubMed_0401,"CAM use, all ages",CAM (any),sickle cell disease,ever,children,177.0,200.0,88.5,Table 1 (includes adults)
+PubMed_0401,"Herbal medication, all ages",herbal,sickle cell disease,ever,children,40.0,,16.1,Table 2 (percent of 248 CAM responses; includes adults)
+PubMed_0401,"Spiritual healing/prayer, all ages",spiritual/faith,sickle cell disease,ever,children,30.0,,12.1,Table 2 (percent of responses; includes adults)
+PubMed_0403,First presented to traditional bonesetters/herbalists before hospital,traditional healer,pyogenic septic arthritis,before admission,children,14.0,44.0,31.8,Table 1 (image; figure as verified in PMC by lead reviewer per included.csv; not in extracted text)
+PubMed_0420,Traditional treatment as primary care for diarrhoea in last 2 weeks,traditional healer,diarrhoea,last 2 weeks,children,10.0,282.0,3.5,Table: characteristics of primary care given
+PubMed_0420,Herbal remedies/traditional drugs given as oral rehydration treatment,home remedy incl. herbs,diarrhoea,last 2 weeks,children,28.0,202.0,13.9,Table: characteristics of primary care given
+PubMed_0440,Child with diarrhoea taken to traditional medicine practitioner (first or second source),traditional healer,diarrhoea,last illness,children,615.0,5416.0,11.4,"Results text (abstract gives 615/5425, 11.3%)"
+PubMed_0440,Traditional medicine as first source of treatment,traditional healer,diarrhoea,last illness,children,85.0,5416.0,1.6,Results
+PubMed_0450,First line of action for suspected pneumonia: traditionalist or church prayer/spiritual healing (exclusive categories),combined TM,suspected pneumonia,last illness,caregivers,13.0,253.0,5.1,Results 4.x and Table 2
+PubMed_0450,Consulted traditionalist first,traditional healer,suspected pneumonia,last illness,caregivers,10.0,253.0,4.0,Results
+PubMed_0450,Took child to church for prayers/spiritual healing first,spiritual/faith,suspected pneumonia,last illness,caregivers,3.0,253.0,1.2,Results
+PubMed_0450,Herbal concoction as first-line treatment,herbal,suspected pneumonia,last illness,caregivers,9.0,,,Results (percentage misreported as 0.04%)
+PubMed_0469,Local herbal remedies combined with orthodox medicine for child's malaria (last 3 months),herbal,malaria,last illness,children,183.0,200.0,91.5,Abstract (numerator derived from %)
+PubMed_0469,Traditional medicine homes visited when fever persisted after home treatment,traditional healer,malaria,last illness,caregivers,17.0,200.0,8.5,Results
+PubMed_0469,Prayer houses visited when fever persisted,spiritual/faith,malaria,last illness,caregivers,7.0,200.0,3.5,Results
+PubMed_0469,Preferred herbal over orthodox medicine for childhood malaria,herbal,malaria,other,caregivers,200.0,422.0,47.4,Results (preference)
+PubMed_0471,Used local concoction and/or traditional medications as initial home action for newborn danger signs,combined TM,newborn danger signs,other,caregivers,12.0,263.0,4.6,"Results, health-seeking section (text)"
+PubMed_0478,Children with suspected pneumonia (past 2 weeks) taken to a traditional practitioner,traditional healer,suspected pneumonia,last 2 weeks,children,40.0,890.0,4.5,"Tables 1 and 2, Nigeria column (computed 40/890)"
+PubMed_0478,Traditional practitioner visits among children taken for care,traditional healer,suspected pneumonia,last 2 weeks,children,40.0,555.0,7.2,Table 2 (computed; among care-seekers only)
+PubMed_0478,Traditional practitioner as share of all visits to any provider,traditional healer,suspected pneumonia,last 2 weeks,illness episodes,40.0,596.0,7.0,Table 2 (reported 7%)
+PubMed_0481,Herbal mixtures given at home for jaundice (all mothers),herbal,neonatal jaundice,before admission,children,18.0,98.0,18.4,Results text (18/30 home-care infants)
+PubMed_0481,Herbal mixtures among infants who received initial care at home,herbal,neonatal jaundice,before admission,children,18.0,30.0,60.0,Results text
+PubMed_0481,Herb/drug use (combined) as home remedy,home remedy incl. herbs,neonatal jaundice,before admission,children,24.0,98.0,24.5,Table 5
+PubMed_0485,"Traditional practitioner as location of first-line treatment, among febrile children (all)",traditional healer,fever in last 2 weeks,last 2 weeks,children,15.0,814.0,1.8,"Table 2, derived"
+PubMed_0485,"Traditional practitioner first-line, among children brought for treatment outside home",traditional healer,fever in last 2 weeks,last 2 weeks,children,15.0,624.0,2.4,Table 2
+PubMed_0485,Bauchi: traditional practitioner first-line,traditional healer,fever,last 2 weeks,children,5.0,299.0,1.7,Table 2
+PubMed_0485,Sokoto: traditional practitioner first-line,traditional healer,fever,last 2 weeks,children,10.0,325.0,3.1,Table 2
+PubMed_0516,Baseline 2009: care for sick child with fever/cough in past month - traditional medicine/herbs,combined TM,fever/cough,other,illness episodes,,1205.0,13.2,"Table 4 (header n with any care = 1,205; 'total sick' row 2,910)"
+PubMed_0516,Baseline 2009: care for sick child with diarrhoea in past month - traditional medicine/herbs,combined TM,diarrhoea,other,illness episodes,,1335.0,11.6,"Table 4 (header n = 1,335; 'total sick' row 1,415)"
+PubMed_0516,"Follow-up 2011 fever/cough: traditional medicine/herbs, control / low / high intensity",combined TM,fever/cough,other,illness episodes,,533.0,18.3,"Table 4 (control 18.3%, low 26.5%, high 23.9%; post-intervention)"
+PubMed_0516,"Follow-up 2011 diarrhoea: traditional medicine/herbs, control / low / high intensity",combined TM,diarrhoea,other,illness episodes,,348.0,18.6,"Table 4 (control 18.6%, low 29.5%, high 24.6%; post-intervention)"
+PubMed_0520,"Herbal practitioner as source of pre-hospital medication, among children given drugs at home",traditional healer,acute respiratory infection,current episode,children,16.0,170.0,9.4,Table 2
+PubMed_0520,"Herbal practitioner as source of pre-hospital medication, all children",traditional healer,acute respiratory infection,current episode,children,16.0,226.0,7.1,Table 2 (recalculated on full sample)
+PubMed_0531,"""Gbomoro"" (described as herbal medication) used for colic",herbal,infantile colic,usual practice,caregivers,21.0,177.0,11.9,Table 4 (abstract states 16.2%)
+PubMed_0531,Herbal concoctions used for colic,herbal,infantile colic,usual practice,caregivers,4.0,177.0,2.3,Table 4
+PubMed_0532,Pre-intervention home practice: administer traditional medication during febrile convulsion,combined TM,febrile convulsion,usual practice,caregivers,49.0,50.0,98.0,Table 3
+PubMed_0532,Cow urine during febrile convulsion,other: cow urine,febrile convulsion,usual practice,caregivers,2.0,50.0,4.0,Table 3
+PubMed_0532,Scarification marks during febrile convulsion,other: traditional scarification,febrile convulsion,usual practice,caregivers,45.0,50.0,90.0,Table 3
+PubMed_0542,Traditional herbal mixture given orally or rubbed on skin during/after seizure before admission,herbal,febrile seizure,before admission,admissions,7.0,17.0,41.2,Results; abstract
+PubMed_0545,Cow's urine concoction administered to convulsing child (all mothers),herbal,convulsion,ever,caregivers,74.0,500.0,14.8,Results/Table 5 (denominator all mothers)
+PubMed_0545,Cow's urine concoction among mothers who managed convulsion at home,herbal,convulsion,ever,caregivers,74.0,85.0,87.1,Results/Table 5
+PubMed_0545,Recitation of holy Quran (among home managers),spiritual/faith,convulsion,ever,caregivers,15.0,85.0,17.6,Results (paper reports 12.4% using a different base)
+PubMed_0545,Would seek herbalist for a convulsing child (intended action),traditional healer,convulsion,usual practice,caregivers,22.0,500.0,4.4,Discussion/Table 4
+PubMed_0548,Native concoction (cow urine mixture) given pre-hospital,herbal,febrile seizures,before admission,children,15.0,147.0,10.2,Table 2 and Table 3
+PubMed_0548,"Any pre-hospital intervention (includes salt water, milk, water, eye instillations, burns, incisions)",combined TM,febrile seizures,before admission,children,59.0,147.0,40.1,Results
+PubMed_0563,"Non-beneficial cord care (hot compress, herbs, native chalk, salt, sand, saliva, palm oil, menthol balm, petroleum jelly, toothpaste, alone or combined)",combined TM,umbilical cord care,usual practice,caregivers,395.0,497.0,79.5,"Results p212, Table 2"
+PubMed_0566,Mothers who used crude oil as traditional medicine (mainly on children),home remedy incl. herbs,any (mainly febrile convulsion),ever,caregivers,134.0,420.0,31.9,Results; Table 1
+PubMed_0567,"Herbal medicine as home remedy for malaria, pre-intervention, experimental group",herbal,malaria,usual practice,caregivers,20.0,200.0,10.0,Table: Home remedy for malaria treatment
+PubMed_0567,"Herbal medicine as home remedy for malaria, pre-intervention, control group",herbal,malaria,usual practice,caregivers,22.0,200.0,11.0,Table: Home remedy for malaria treatment
+PubMed_0567,Pooled baseline (both arms),herbal,malaria,usual practice,caregivers,42.0,400.0,10.5,derived
+PubMed_0575,Health care option used before presentation: herbal concoction,herbal,cerebral malaria,before admission,children,6.0,33.0,18.2,Abstract; Results 3.3
+PubMed_0598,Herbal preparations as method of home treatment of diarrhoea (valid responses),herbal,diarrhoea,usual practice,caregivers,1.0,193.0,0.5,Table 3 (10 invalid entries excluded; paper reports 1/203 = 0.5%)
+PubMed_0645,Treated last episode of child's malaria at herbalist's place,traditional healer,malaria,last illness,caregivers,53.0,500.0,10.6,Results; Fig I
+PubMed_0697,Infant with colic given herbal medicine at home or treated by traditional herbal practitioner,combined TM,infantile colic,ever,children,200.0,558.0,35.8,Results; Table 4 (183 herbal self-medication + 17 traditional practitioner; exclusive care groups)
+PubMed_0697,Herbal medicines among self-medicated infants,herbal,infantile colic,ever,children,183.0,353.0,51.8,Table 4
+PubMed_0697,Treated by traditional herbal medicine practitioners,traditional healer,infantile colic,ever,children,17.0,558.0,3.0,Results
+PubMed_0705,"Any CAM use (incl. supplements/proprietary products), last 6 months or earlier during present illness",CAM (any),"epilepsy, asthma, sickle cell anaemia",ever,children,99.0,318.0,31.1,"Results, Profile of CAM utilisation"
+PubMed_0705,Ginger,herbal,chronic conditions,ever,children,45.0,318.0,14.2,Table 2
+PubMed_0705,Herbs,herbal,chronic conditions,ever,children,36.0,318.0,11.3,Table 2
+PubMed_0705,Spiritual healing/prayer,spiritual/faith,chronic conditions,ever,children,35.0,318.0,11.0,Table 2
+PubMed_0705,"CAM use, epilepsy",CAM (any),epilepsy,ever,children,38.0,122.0,31.1,Table 2 header
+PubMed_0705,"CAM use, asthma",CAM (any),asthma,ever,children,25.0,78.0,32.1,Table 2 header
+PubMed_0705,"CAM use, sickle cell anaemia",CAM (any),sickle cell,ever,children,36.0,118.0,30.5,Table 2 header
+PubMed_0727,First action for child's fever: taken to traditional healer,traditional healer,fever,other,caregivers,12.0,400.0,3.0,Table 3
+PubMed_0727,Native concoction given at home (among those giving drugs at home),herbal,fever,other,caregivers,10.0,272.0,3.7,Table 4
+PubMed_0727,Home drugs obtained from a traditional healer,traditional healer,fever,other,caregivers,8.0,272.0,2.9,Table 4
+PubMed_0790,First action traditional medicine (children taken for outside care),herbal,"malaria/fever, ARI, diarrhoea, measles",last 2 weeks,children,35.0,280.0,12.5,Table II
+PubMed_0790,First action traditional home care (children taken for outside care),home remedy incl. herbs,"malaria/fever, ARI, diarrhoea, measles",last 2 weeks,children,30.0,280.0,10.7,Table II
+PubMed_0790,Traditional/herbal home as care provider outside home,traditional healer,"malaria/fever, ARI, diarrhoea, measles",last 2 weeks,children,9.0,280.0,3.2,Table IV
+PubMed_0790,"Home-treated children: prayers 3, traditional home care 1",combined TM,"malaria/fever, ARI, diarrhoea, measles",last 2 weeks,children,4.0,146.0,2.7,Results text
+PubMed_0790,"Any TM first action (traditional medicine, traditional home care or prayer) among all sick children",combined TM,"malaria/fever, ARI, diarrhoea, measles",last 2 weeks,children,69.0,426.0,16.2,Computed by extractor: 35+30 (Table II) + 3+1 (text)
+PubMed_0795,First-line: self-medication with herbs and herbal potions,herbal,childhood malaria (zazzabi),usual practice,caregivers,112.0,186.0,60.2,Table 2
+PubMed_0795,First-line: treatment with herbs and drugs from market/shops,herbal,childhood malaria,usual practice,caregivers,30.0,186.0,16.1,Table 2
+PubMed_0795,Any herbs as first-line (herbs alone or herbs with shop drugs; exclusive categories summed),herbal,childhood malaria,usual practice,caregivers,142.0,186.0,76.3,Table 2 (computed)
+PubMed_0795,If symptoms persist/worsen: visit the herbalist,traditional healer,childhood malaria,usual practice,caregivers,54.0,186.0,29.0,Table 2 (6 young + 48 older)
+Embase_0893,"Parents of infants with significant jaundice who relied on home remedies (unripe pawpaw extract, sunlight, multivitamin drops)",home remedy incl. herbs,neonatal jaundice,current episode,caregivers,,,98.2,Abstract
+Embase_1160,Native medicine as home treatment for under-five diarrhoea,herbal,diarrhoea (child ever had diarrhoea),ever,caregivers,15.0,322.0,4.6,Table 7 (abstract says 3.7%)
+Embase_1160,Took child to traditional healer for diarrhoea,traditional healer,diarrhoea,ever,caregivers,,,1.7,Results text p.10 (denominator not stated)
+Embase_1824,"Unorthodox/traditional treatments at home during convulsion (any, incl. palm kernel oil, herbal concoctions, onion leaves, crude oil, flame burns)",combined TM,convulsions,current episode,children,14.0,50.0,28.0,Results
+Embase_1824,Palm kernel oil,home remedy incl. herbs,convulsions,current episode,children,9.0,50.0,18.0,Results (9/14 exposed)
+Embase_1824,Herbal concoctions,herbal,convulsions,current episode,children,2.0,50.0,4.0,Results (2/14 exposed)
+Embase_1824,Onion leaves,herbal,convulsions,current episode,children,2.0,50.0,4.0,Results (2/14 exposed)
+GIM_0002,Herbalist as source of medical treatment,traditional healer,malaria,usual practice,caregivers,27.0,200.0,13.5,Table 4
+GIM_0002,Preferred home treatment of malaria: herbal preparation alone,herbal,malaria,usual practice,caregivers,25.0,200.0,12.5,Table 5
+GIM_0002,Preferred home treatment: antimalarial plus herbal preparation,herbal,malaria,usual practice,caregivers,17.0,200.0,8.5,Table 5
+GIM_0002,Any herbal preparation in home malaria treatment (alone or with antimalarial),herbal,malaria,usual practice,caregivers,42.0,200.0,21.0,Table 5 (mutually exclusive categories summed)
+GIM_0005,"Ever given enema to under-five (any substance, incl. plain water/soap/Dettol)",home remedy incl. herbs,enema (various indications),ever,caregivers,169.0,252.0,67.1,Table 2
+GIM_0005,Water leaf (Talinum triangulare) herbal enema,herbal,enema (various indications),ever,caregivers,79.0,252.0,31.3,Table 2 (79/169 = 46.7% of enema users)
+GIM_0005,Bitter leaf (Vernonia amygdalina) herbal enema,herbal,enema (various indications),ever,caregivers,47.0,252.0,18.7,Table 2 (47/169 = 27.8% of users)
+GIM_0005,Other herbs as enema,herbal,enema (various indications),ever,caregivers,45.0,252.0,17.9,Table 2
+GIM_0013,Herbalist only or herbalist plus hospital for childhood malaria (exclusive categories),herbal,childhood malaria,usual practice,caregivers,848.0,6259.0,13.5,Table 2 (615 + 233)
+GIM_0013,Herbalist/herbs only,herbal,childhood malaria,usual practice,caregivers,615.0,6259.0,9.8,Table 2 (text 613)
+GIM_0013,Herbalist and hospital,herbal,childhood malaria,usual practice,caregivers,233.0,6259.0,3.7,Table 2 (text 232)
+GIM_0017,Home management step: use agbo for the baby (malaria),herbal,malaria,usual practice,caregivers,44.0,379.0,11.6,Table 2 (step-by-step home management)
+GIM_0023,Prehospital application of herbs,herbal,snakebite,before admission,admissions,7.0,13.0,53.8,Table 2
+GIM_0023,Prehospital visit to native doctor,traditional healer,snakebite,before admission,admissions,7.0,13.0,53.8,Table 2
+GIM_0023,Black stone application,combined TM,snakebite,before admission,admissions,6.0,13.0,46.2,Table 2
+GIM_0040,Other concoctions applied to umbilical stump,herbal,cord care,usual practice,caregivers,504.0,12113.0,4.2,"Results 4.2, Fig 1"
+GIM_0040,Ash applied to umbilical stump,combined TM,cord care,usual practice,caregivers,339.0,12113.0,2.8,Fig 1
+GIM_0040,Animal dung applied to umbilical stump,combined TM,cord care,usual practice,caregivers,62.0,12113.0,0.5,Fig 1
+GIM_0040,Turmeric applied to umbilical stump,herbal,cord care,usual practice,caregivers,15.0,12113.0,0.1,Fig 1
+GIM_0040,"Any traditional substance (concoction, ash, animal dung, turmeric; mutually exclusive categories)",combined TM,cord care,usual practice,caregivers,920.0,12113.0,7.6,Fig 1 (computed by extractor; categories sum to 12113)
+GIM_0042,Herbal medication given before presentation at public health facility,herbal,uncomplicated malaria,current episode,children,171.0,860.0,19.9,Table 1
+GIM_0044,"Any CAM administered to child (vitamins excluded; herbal, animal products, spiritual and other practices)",CAM (any),HIV,current episode,children,324.0,409.0,79.2,Results; Table 2
+GIM_0044,Herbal concoctions with known herbs (bitter leaf),herbal,HIV,current episode,children,317.0,409.0,77.5,Table 2 (317/324 users)
+GIM_0044,Spiritual healing,spiritual/faith,HIV,current episode,children,252.0,409.0,61.6,Table 2 (252/324 users = 77.8%)
+GoogleScholar_0001,Lifetime use of herbal medicine for under-five ailments,herbal,any under-five ailment,ever,caregivers,276.0,600.0,46.0,Results; numerator derived
+GoogleScholar_0001,Current use of herbal remedies for under-five ailments,herbal,any under-five ailment,current episode,caregivers,200.0,600.0,33.3,Results; numerator derived
+GoogleScholar_0009,Herbal remedies practice before presentation,herbal,malaria,before admission,children,53.0,196.0,27.0,Table 2; Results
+GoogleScholar_0009,Abdominal wall scarification marks (traditional practice for malaria),traditional healer,malaria,ever,children,83.0,196.0,42.4,Table 2
+GoogleScholar_0011,Ever used CAM for their children (acute illness or routine),CAM (any),acute illnesses (any),ever,caregivers,301.0,415.0,72.5,Table 2
+GoogleScholar_0011,Spiritual healing used,spiritual/faith,acute illnesses (any),ever,caregivers,126.0,415.0,30.4,Table 5 (126/301 users)
+GoogleScholar_0011,Topical application of herbs to skin,herbal,acute illnesses (any),ever,caregivers,97.0,415.0,23.4,Table 5 (97/301 users)
+GoogleScholar_0011,Ingestion of alcohol-based herbs,herbal,acute illnesses (any),ever,caregivers,92.0,415.0,22.2,Table 5
+GoogleScholar_0011,Ingestion of herbal concoctions,herbal,acute illnesses (any),ever,caregivers,71.0,415.0,17.1,Table 5
+GoogleScholar_0015,"Any traditional medicine use for under-fives (always, often or rarely; not never)",combined TM,childhood illnesses,usual practice,caregivers,405.0,430.0,94.2,Table 2
+GoogleScholar_0015,Uses traditional medicine always or often,combined TM,childhood illnesses,usual practice,caregivers,350.0,430.0,81.4,Table 2
+GoogleScholar_0015,Herbal remedies,herbal,childhood illnesses,usual practice,caregivers,193.0,430.0,44.9,Table 2
+GoogleScholar_0015,Spiritual healing,spiritual/faith,childhood illnesses,usual practice,caregivers,177.0,430.0,41.2,Table 2
+GoogleScholar_0016,"Used traditional medicines (alone or with western) for under-fives at home, among the whole sample",herbal,general childhood illness,ever,caregivers,236.0,700.0,33.7,Figure 4.6 and Table 4.25 (N=236)
+GoogleScholar_0016,"Used traditional medicines (alone or combined), among ever-users of non-prescribed medicines",herbal,general childhood illness,ever,caregivers,236.0,581.0,40.6,Figure 4.6: 21.6% traditional only + about 19.0% combined
+GoogleScholar_0016,"Used only traditional medicines, among NPM users",herbal,general childhood illness,ever,caregivers,,581.0,21.6,Figure 4.6 text
+GoogleScholar_0016,Herbal liquid for malaria (agbo iba) for treating malaria,herbal,malaria,usual practice,caregivers,,,4.0,Table 4.26 text (OCR unclear)
+GoogleScholar_0019,Caregivers used herbal remedies (e.g. Phyllanthus amarus) for current illness,herbal,malaria/fever,current episode,caregivers,370.0,633.0,58.5,"Table 1, Table 3, Results"
+GoogleScholar_0020,Child had ever taken herbal medicine (users-only sample by design),herbal,any,ever,caregivers,340.0,340.0,100.0,Table 4.9
+GoogleScholar_0020,Currently using herbal remedy for infant (among users),herbal,any,current episode,caregivers,153.0,340.0,45.0,Table 4.9
+GoogleScholar_0020,Used herbal remedies for prevention of illness (among users),herbal,prevention,ever,caregivers,231.0,340.0,67.9,Table 4.11
+GoogleScholar_0020,Used herbal remedies for treatment of illness (among users),herbal,treatment of illness,ever,caregivers,155.0,340.0,45.6,Table 4.11
+GoogleScholar_0025,Ever used herbal remedies to prevent or treat diseases in their children,herbal,any childhood disease (prevention or treatment),ever,caregivers,389.0,400.0,97.3,Table 4.2.3
+GoogleScholar_0025,Used herbal remedies for the under-5 child in the 2 weeks preceding the study,herbal,any childhood disease,last 2 weeks,caregivers,385.0,400.0,96.2,"Section 4.2.5, Figure 2, Tables 4.3.1-4.3.4"
+GoogleScholar_0031,"Consulted a traditional medicine practitioner for child's diarrhoea or fever/cough, among women who sought care (Nigeria DHS 2018)",traditional healer,diarrhoea or fever/cough,last 2 weeks,caregivers,,,3.4,"Fig 1 (95% CI 2.73-4.22), read by lead reviewer"
+GoogleScholar_0034,Ever used CAM in course of treatment,CAM (any),epilepsy,ever,children,91.0,108.0,84.3,Table 3
+GoogleScholar_0034,Prayers,spiritual/faith,epilepsy,ever,children,91.0,108.0,84.3,Table 4 (count 91; printed % is of 597 responses)
+GoogleScholar_0034,Water-based herbal remedies,herbal,epilepsy,ever,children,78.0,108.0,72.2,Table 4 (count; recomputed on 108)
+GoogleScholar_0034,Scarifications,combined TM,epilepsy,ever,children,62.0,108.0,57.4,Table 4 (recomputed)
+GoogleScholar_0034,Exorcism,spiritual/faith,epilepsy,ever,children,26.0,108.0,24.1,Table 4 (recomputed)
+GoogleScholar_0036,Oral herbs for measles (home treatment),herbal,measles,other,caregivers,162.0,277.0,58.5,Table 3 (162/253 = 64.0% of home-treaters; 24 sought facility care only)
+GoogleScholar_0036,Palm oil on the body,home remedy incl. herbs,measles,other,caregivers,207.0,277.0,74.7,Table 3 (81.8% of 253)
+GoogleScholar_0036,Palm wine for bathing,home remedy incl. herbs,measles,other,caregivers,196.0,277.0,70.8,Table 3 (77.5% of 253)
+GoogleScholar_0036,Bitter leaf for drinking and bathing,herbal,measles,other,caregivers,157.0,277.0,56.7,Table 3 (62.1% of 253)
+GoogleScholar_0036,Shea butter mixture,home remedy incl. herbs,measles,other,caregivers,76.0,277.0,27.4,Table 3 (30.0% of 253)
+GoogleScholar_0041,Used herbal preparations for the child before presenting at hospital,herbal,fever,before admission,caregivers,5.0,256.0,2.0,Results text p33
+GoogleScholar_0041,Source of pre-hospital treatment: traditional/herbal practitioners,traditional healer,fever,before admission,caregivers,2.0,177.0,1.1,Table 4
+GoogleScholar_0041,Source of pre-hospital treatment: faith-based centres (churches),spiritual/faith,fever,before admission,caregivers,2.0,177.0,1.1,Table 4
+GoogleScholar_0043,Ever used medicinal plants to treat child's diarrhoea or malaria,herbal,diarrhoea or malaria,ever,caregivers,223.0,300.0,74.3,Table 2
+GoogleScholar_0043,Manage child's malaria/diarrhoea only with traditional herbs,herbal,diarrhoea or malaria,usual practice,caregivers,143.0,300.0,47.7,Table 2
+GoogleScholar_0043,Complementary (herbal) medicine in addition to orthodox medicines,herbal,diarrhoea or malaria,usual practice,caregivers,80.0,300.0,26.7,Table 2
+GoogleScholar_0054,Use of local herbs as home care for fever,herbal,childhood fever,current episode,caregivers,63.0,255.0,24.7,Table 2
+GoogleScholar_0054,Inappropriate home care (local herbs and/or teething mixtures or other unorthodox methods),other: mixed,childhood fever,current episode,caregivers,69.0,255.0,27.1,Results
+GoogleScholar_0075,Used traditional eye medication on their children,combined TM,eye conditions,ever,caregivers,171.0,422.0,40.5,Results; Figure 2
+GoogleScholar_0075,Used TEM on self or child (any),combined TM,eye conditions,ever,caregivers,289.0,422.0,68.5,Figure 1
+GoogleScholar_0096,Herbal medicines used as non-prescribed drugs by infants ill in the last month,herbal,any,other,children,31.0,336.0,9.2,Table 1 and Discussion (31 infants = 19.38% of 160 non-prescribed group); denominator all 336 ill infants
+GoogleScholar_0096,Sought intervention of traditional healers for infant's ailment in last month,traditional healer,any,other,children,16.0,336.0,4.8,Results p113
+GoogleScholar_0096,Herbal medicines among infants given non-prescribed drugs,herbal,any,other,children,31.0,160.0,19.4,Discussion
+GoogleScholar_0102,First place care sought for child's illness: traditional healer,traditional healer,any childhood illness,last illness,caregivers,19.0,422.0,4.5,Table 3
+GoogleScholar_0102,First place care sought: home remedy (type unspecified),home remedy incl. herbs,any childhood illness,last illness,caregivers,36.0,422.0,8.5,Table 3
+GoogleScholar_0102,"Prefer traditional medicine over modern care always/often/sometimes (attitude, not use)",combined TM,any childhood illness,usual practice,caregivers,173.0,422.0,41.0,Table 3 (computed 19+25+129)
+GoogleScholar_0120,"Home management of diarrhoea: herbal medicine, Dorayi quarters",herbal,diarrhoea,usual practice,caregivers,54.0,353.0,15.3,Table II
+GoogleScholar_0120,"Home management of diarrhoea: herbal medicine, Nasarawa GRA",herbal,diarrhoea,usual practice,caregivers,46.0,347.0,13.3,Table II
+GoogleScholar_0120,"Herbal medicine, both communities combined",herbal,diarrhoea,usual practice,caregivers,100.0,700.0,14.3,Table II (computed)
+GoogleScholar_0157,Herbal solution used during active cord care,herbal,cord care,usual practice,caregivers,80.0,107.0,74.8,Table 3
+GoogleScholar_0157,Herbs (Bryophyllum) applied after stump detachment,herbal,cord care (post-detachment),usual practice,caregivers,62.0,107.0,57.9,Table 4
+GoogleScholar_0167,Herbal concoction to treat neonatal jaundice,herbal,neonatal jaundice,other,caregivers,29.0,240.0,12.1,Figure 1; numerator derived
+GoogleScholar_0167,Pawpaw extract to treat neonatal jaundice,herbal,neonatal jaundice,other,caregivers,23.0,240.0,9.6,Figure 1; numerator derived
+GoogleScholar_0167,Ama-afo (abdominal scarification),combined TM,neonatal jaundice,other,caregivers,7.0,240.0,2.9,Figure 1; numerator derived
+GoogleScholar_0184,Home remedy before presentation: herbal concoction (percent of children given home remedies),herbal,accidental poisoning,before admission,children,,,5.6,Table 3 (denominator not stated; percentages imply about 18 children given home remedies)
+GoogleScholar_0206,Herbs given to child when diarrhoea is first noticed (multiple response),herbal,diarrhoea,usual practice,caregivers,17.0,379.0,4.5,Table 4.26
+GoogleScholar_0206,Place usually visited for treatment of diarrhoea: traditional healer (herb seller),traditional healer,diarrhoea,usual practice,caregivers,14.0,397.0,3.5,Table 4.26
+GoogleScholar_0240,Herbal preparations as preferred home treatment of malaria,herbal,malaria,usual practice,caregivers,54.0,200.0,27.0,Table 2
+GoogleScholar_0240,Antimalarial drugs + herbal preparations combined,herbal,malaria,usual practice,caregivers,12.0,200.0,6.0,Table 2
+GoogleScholar_0294,Herbal medication ingestion (derived from proteinuria table: 45/118 + 146/288),herbal,general,ever,children,191.0,406.0,47.0,Table 4 (derived)
+OpenAlex_grey_0008,Have used antimalarial herbal decoction for children 0-5 years before,herbal,malaria,ever,caregivers,140.0,300.0,46.7,Table 6
+OpenAlex_grey_0008,Use decoctions in combination with modern antimalarial medicines,herbal,malaria,usual practice,caregivers,50.0,300.0,16.7,Table 6
+OpenAlex_grey_0049,Herbs given as medication for childhood pneumonia (last 2 weeks),herbal,pneumonia,last 2 weeks,caregivers,1.0,110.0,0.9,Table 5.30
+OpenAlex_grey_0049,Primary care for pneumonia: home management/family/neighbours/traditional,combined TM,pneumonia,last 2 weeks,caregivers,10.0,110.0,9.1,Table 5.30 (combined category)
+OpenAlex_grey_0049,Primary care for diarrhoea: traditional treatment,traditional healer,diarrhoea,last 2 weeks,caregivers,10.0,282.0,3.5,Table 5.13 (denominator derived from %)
+OpenAlex_grey_0049,Rehydration given for diarrhoea: herbal remedies/traditional drugs,herbal,diarrhoea,last 2 weeks,caregivers,28.0,202.0,13.9,Table 5.13 (denominator derived from %)
+Other_0001,Herbal product used for cord cleaning,herbal,cord care,usual practice,caregivers,336.0,811.0,41.4,Table 3
+Other_0001,Herbs applied after cleaning the cord,herbal,cord care,usual practice,caregivers,259.0,811.0,31.9,Table 3
+Other_0001,Native chalk/ash applied to cord,combined TM,cord care,usual practice,caregivers,290.0,811.0,35.8,Table 3
+Other_0001,Shea butter applied to cord,herbal,cord care,usual practice,caregivers,301.0,811.0,37.1,Table 3
+Other_0005,Children with enuresis or daytime incontinence and enuresis given herbal medication by parents,herbal,enuresis,usual practice,children,5.0,263.0,1.9,"Results, 'Interventions employed by parents'"
+PubMed_0108,"Herbal medicine (e.g. agbo, leaf water) for common childhood diseases - ever (always/sometimes/rarely)",herbal,common childhood diseases,usual practice,caregivers,294.0,332.0,88.6,Table 2 (122+132+40)
+PubMed_0108,Herbal medicine always or sometimes,herbal,common childhood diseases,usual practice,caregivers,254.0,332.0,76.5,Table 2
+PubMed_0108,Herbal medicine always,herbal,common childhood diseases,usual practice,caregivers,122.0,332.0,36.7,Table 2
+PubMed_0108,Faith/spiritual healing ever (always/sometimes/rarely),spiritual/faith,common childhood diseases,usual practice,caregivers,178.0,332.0,53.6,Table 2 (45+77+56)
+PubMed_0108,Faith/spiritual healing always,spiritual/faith,common childhood diseases,usual practice,caregivers,45.0,332.0,13.6,Table 2
+PubMed_0208,Hot fomentation with herbs applied to umbilicus after cord stump dropped,herbal,cord care,current episode,children,49.0,565.0,8.7,"Results, cord care (denominator 80.1% of 705 babies; both derived)"
+PubMed_0208,Hot fomentation with herbs for cord care before stump separation,herbal,cord care,current episode,children,,,0.3,"Results, cord care"
+PubMed_0208,Herbs added to feeds in first week,herbal,newborn feeding,current episode,caregivers,,678.0,1.8,"Results, feeding"
+PubMed_0208,Native medication with lead fillings applied for eye discharge,combined TM,eye discharge,current episode,children,2.0,,,"Results, eye care"
+PubMed_0501,Spiritual healing/prayer,spiritual/faith,HIV-related symptoms,ever,children,181.0,187.0,96.8,Table 3
+PubMed_0501,"Any complementary medicine (NCCAM classes, incl. supplements)",CAM (any),HIV-related symptoms,ever,children,181.0,187.0,96.8,Results 3.3
+PubMed_0501,Herbs,herbal,HIV-related symptoms,ever,children,70.0,187.0,37.4,Table 3
+PubMed_0501,Concoction soup,herbal,HIV-related symptoms,ever,children,30.0,187.0,16.0,Table 3
+PubMed_0501,Current CM use,CAM (any),HIV-related symptoms,current episode,children,77.0,187.0,41.2,Results 3.3
+PubMed_0524,"Any CAM use for epilepsy (includes special vitamins/supplements such as GNLD, Forever Living)",CAM (any),epilepsy,ever,children,99.0,175.0,56.6,Results text and abstract
+PubMed_0524,Herbal preparations,herbal,epilepsy,ever,children,69.0,175.0,39.4,Table 1
+PubMed_0524,Spiritual/faith healing,spiritual/faith,epilepsy,ever,children,60.0,175.0,34.3,Table 1
+PubMed_0524,Scarifications,traditional healer,epilepsy,ever,children,30.0,175.0,17.1,Table 1
+PubMed_0524,Sought treatment from an alternative medical practitioner,traditional healer,epilepsy,ever,children,35.0,175.0,20.0,Results text
+PubMed_0524,Received CAM before seeking Western medicine,CAM (any),epilepsy,other,children,70.0,175.0,40.0,Results text
+PubMed_0538,Prayer houses/faith healing centres as first point of contact,spiritual/faith,neuropsychiatric disorders,before admission,children,88.0,393.0,22.4,Table 1
+PubMed_0538,Traditional healers as first point of contact,traditional healer,neuropsychiatric disorders,before admission,children,27.0,393.0,6.9,Table 1
+PubMed_0608,Traditional provider used for child's presumptive malaria (4-week recall),traditional healer,presumptive malaria,other,illness episodes,6.0,540.0,1.1,Table 4 (children; sum of provider rows = 540)
+PubMed_0611,Herbal medicine as first-line action for child's diarrhoea,herbal,diarrhoea,current episode,caregivers,223.0,4386.0,5.1,Table 3
+PubMed_0620,Water extract of unripe pawpaw given at home for jaundice,herbal,neonatal jaundice,before admission,children,32.0,182.0,17.6,Results p679
+PubMed_0620,"Home remedies (medications and herbal mixtures, combined) given for jaundice",home remedy incl. herbs,neonatal jaundice,before admission,children,112.0,182.0,61.5,Results p679; Table 2
+PubMed_0654,Traditional eye medication used to care for pupils' eye diseases,herbal,eye diseases,usual practice,caregivers,83.0,1069.0,7.76,Table ii
+PubMed_0683,First action on child's febrile illness (past month): used herbs,herbal,malaria/febrile illness,other,caregivers,19.0,400.0,4.8,"Results 'Treatment practices', Fig 2"
+PubMed_0683,Herbal preparations (agbo) stocked at home for malaria prevention,herbal,malaria prevention,other,caregivers,28.0,400.0,7.0,Table 3
+PubMed_0683,Visited herbal homes outside the home,traditional healer,malaria/febrile illness,other,caregivers,10.0,400.0,2.5,Results text p51
+PubMed_0683,Visited church outside the home,spiritual/faith,malaria/febrile illness,other,caregivers,1.0,400.0,0.3,Results text p51
+PubMed_0683,Prefer agbo to drugs,herbal,malaria,usual practice,caregivers,31.0,400.0,7.7,Results text p50
+PubMed_0704,Used herbal medicine as first action for child's malaria,herbal,malaria,usual practice,caregivers,35.0,326.0,10.7,Table 1
+PubMed_0704,Went to traditional healer as first action,traditional healer,malaria,usual practice,caregivers,4.0,326.0,1.2,Table 1
+PubMed_0704,Herbal medicine or traditional healer as first action (mutually exclusive categories combined),combined TM,malaria,usual practice,caregivers,39.0,326.0,12.0,Table 1 (35+4)
+PubMed_0704,Herbal remedies among children given drugs at home,herbal,malaria,usual practice,children,12.0,168.0,7.1,Table 2
+PubMed_0750,Herbal concoctions given to drink,herbal,febrile convulsion,before admission,children,6.0,75.0,8.0,Table 2
+PubMed_0750,Prayers,spiritual/faith,febrile convulsion,before admission,children,2.0,75.0,2.7,Table 2
+PubMed_0750,Burning the feet,combined TM,febrile convulsion,before admission,children,3.0,75.0,4.0,Table 2
+PubMed_0750,Skin incisions,combined TM,febrile convulsion,before admission,children,1.0,75.0,1.3,Table 2
+PubMed_0761,Consulted traditional healers for treatment before hospital,traditional healer,cleft lip/palate,before admission,caregivers,13.0,36.0,36.1,"Tables 3-4; Abstract (12/16 Yoruba, 1/20 Hausa/Fulani)"
+PubMed_0761,Herbal treatment from traditional healers,herbal,cleft lip/palate,before admission,caregivers,6.0,36.0,16.7,Table 4
+PubMed_0783,First line of action for child's perceived malaria: traditional healer,traditional healer,malaria/fever,usual practice,caregivers,16.0,1260.0,1.3,Table 2
+PubMed_0783,First line of action: prayer house,spiritual/faith,malaria/fever,usual practice,caregivers,42.0,1260.0,3.3,Table 2
+PubMed_0783,First line of action: traditional healer or prayer house (mutually exclusive categories),combined TM,malaria/fever,usual practice,caregivers,58.0,1260.0,4.6,Table 2 (summed)
+PubMed_0783,Herbs used to treat malaria in under-fives,herbal,malaria/fever,usual practice,caregivers,30.0,1260.0,2.4,Results text p73
+PubMed_0833,Agbo (herbal tea) given at birth,herbal,infant feeding/illness prevention,other,children,15.0,411.0,3.6,Table 1 (numerator derived)
+PubMed_0833,Agbo (herbal tea) given in first week of life,herbal,infant feeding/illness prevention,other,children,194.0,411.0,47.2,Table 1 (Table 2 gives n=195)
+PubMed_0833,Agbo (herbal tea) given during months 1-4,herbal,infant feeding/illness prevention,other,children,400.0,411.0,97.3,Table 1 (numerator derived)
+PubMed_0843,"First-line treatment: home herbs, indigenous healer or faith healer (exclusive first-choice categories)",combined TM,recent illness (mostly fever),last 2 weeks,illness episodes,375.0,3006.0,12.5,Table 2
+PubMed_0843,First-line home herbs,herbal,recent illness,last 2 weeks,illness episodes,317.0,3006.0,10.6,Table 2
+PubMed_0843,First-line indigenous healer,traditional healer,recent illness,last 2 weeks,illness episodes,30.0,3006.0,1.0,Table 2
+PubMed_0843,First-line faith healer,spiritual/faith,recent illness,last 2 weeks,illness episodes,28.0,3006.0,0.9,Table 2
+PubMed_0849,Asphyxiated babies treated with prayers or herbs/roots in unorthodox delivery facilities (exclusive categories),combined TM,birth asphyxia,current episode,children,26.0,48.0,54.2,Table 3
+PubMed_0849,Treated by prayers,spiritual/faith,birth asphyxia,current episode,children,21.0,48.0,43.8,Table 3
+PubMed_0849,Treated with herbs/roots,herbal,birth asphyxia,current episode,children,5.0,48.0,10.4,Table 3
+PubMed_0853,Herbal preparation used for child's diarrhoea episode (6-month surveillance),herbal,diarrhoea,current episode,illness episodes,3.0,80.0,3.8,Table 5; Results p99

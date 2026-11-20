@@ -1,0 +1,49 @@
+{
+ "records_identified_databases": {
+  "MEDLINE": 1097,
+  "Embase": 1990,
+  "Europe PMC": 530,
+  "Global Index Medicus": 83,
+  "African Journals Online": 278,
+  "Google Scholar": 300,
+  "OpenAlex grey literature": 152,
+  "total": 4430
+ },
+ "duplicates_removed": 1591,
+ "records_screened": 2839,
+ "records_excluded": 2306,
+ "reports_sought": 533,
+ "reports_not_retrieved": {
+  "unlikely_eligible_second_abstract_review": 134,
+  "published_before_2000": 63,
+  "could_not_be_obtained": 16,
+  "total": 213
+ },
+ "reports_assessed": 320,
+ "reports_excluded": {
+  "FT5_no_usable_outcome": 84,
+  "FT3_wrong_population": 59,
+  "FT4_wrong_design": 11,
+  "FT6_duplicate": 5,
+  "FT2_not_Nigeria": 4,
+  "total": 163
+ },
+ "other_methods": {
+  "identified": {
+   "found_during_retrieval": 9,
+   "national_survey_reports": 11
+  },
+  "sought": 20,
+  "not_retrieved": 1,
+  "assessed": 19,
+  "excluded": 11,
+  "included": 8
+ },
+ "included": {
+  "reports": 165,
+  "studies": 159,
+  "primary_studies": 156,
+  "national_survey_reports": 6,
+  "pooled_studies": 134
+ }
+}

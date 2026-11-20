@@ -1,0 +1,185 @@
+rec_id,factor,comparison,measure,value,CI,p,adjusted
+AJOL_0025,Socio-economic class,SEC 1-2 3/14 (21.4%) vs SEC 3-5 25/77 (32.5%) visited alternative care,% comparison,21.4% vs 32.5%,,0.537 (Fisher),False
+AJOL_0025,Metastatic disease at presentation,metastasis in 16/28 (57.1%) alternative-care users vs 24/63 (38.1%) non-users,chi-square,57.1% vs 38.1%,,0.091,False
+AJOL_0031,Traditional healer pre-hospital care,cerebral 7/64 (10.9%) vs uncomplicated 1/64 (1.6%),chi-square,3.333,,0.068,False
+AJOL_0031,Church pre-hospital care,cerebral 9/64 (14.1%) vs uncomplicated 12/64 (18.8%),chi-square,0.513,,0.474,False
+AJOL_0031,Abdominal scarification,cerebral 8/64 vs uncomplicated 1/64,chi-square,4.30,,0.038,False
+AJOL_0139,Residence,rural vs urban use of traditional healers,% comparison,4.8% vs 2.4%,,,False
+AJOL_0142,Sex of sick child,local concoctions/traditional responses: male vs female (2.2% vs 4.3% as reported),% comparison,more traditional responses for girls,,0.007,False
+AJOL_0167,Study period,1993/94 (9.5%) vs 1997/98 (0.9%),% comparison,9.5% vs 0.9%,,<0.02,False
+AJOL_0208,G-6-PD deficiency,deficient 2/46 vs sufficient 3/54 given traditional medicine,% comparison,4.3% vs 5.6%,,not tested,False
+AJOL_0226,maternal age,15-19: 78.6%; 20-24: 14.8%; 25-29: 8.6%; >=30: 0% (concurrent herbal+orthodox use),chi-square,75.56,,<0.001,False
+AJOL_0226,religion,Traditional 70.6% vs Christian 4.9% vs Muslim 5.6% (concurrent use),chi-square,67.34,,<0.001,False
+AJOL_0226,community,"Ikenne 62.5%, Iperu 30.0%, Irolu 15.4%, Ilishan 0% (concurrent use)",chi-square,51.06,,0.600,False
+AJOL_0226,maternal education,Primary higher than secondary/graduate/postgraduate (concurrent use),chi-square,11.15,,0.011,False
+Embase_0009,"Maternal age (for poor cord-care practice overall, not TM specifically)",<=34 vs >34 years,OR,0.35 (good practice); abstract reports OR 2.8 for poor practice,0.15-0.82,0.013,False
+Embase_0293,Traditional cord materials and culture-confirmed sepsis,users vs non-users,OR,2.027,0.716-5.738,0.281,False
+Embase_0401,Age group (all ages incl. adults),"<1, 1-4, 5-12, 13-17, >=18 years",chi-square,6.242,,0.182,False
+Embase_0401,Sex (all ages),male 32.9% vs female 30.2%,chi-square,0.132,,0.716,False
+Embase_0401,Mode of payment (all ages),out of pocket 26.4% vs health insurance 15.4%,chi-square,1.438,,0.230,False
+Embase_0432,Beliefs (traditional/religious) as barrier to orthodox care,proportion of parents,% comparison,107/570 (18.77%),,,False
+Embase_0470,"maternal age, years of education, number of children, family structure",wrong HSB (church/traditional) vs appropriate HSB,% comparison,no significant difference; traditional group mean age 52.1 vs 42.9 (hospital),,>0.05,False
+Embase_0470,length of formal education,correlation with HSB score,% comparison,r = -0.051 to -0.064 (Pearson),,>0.05,False
+Embase_0561,social class,High 32.4% vs Medium 40.4% vs Low 46.3%,chi-square,,,0.246,False
+Embase_0561,malaria parasitaemia (outcome association),Parasitaemia 41/151 (27.2%) herb users vs 55/206 (26.7%) non-users,% comparison,27.2% vs 26.7%,,not significant,False
+Embase_0610,Parental education,none/primary 69.23% vs secondary 45.45% vs post-secondary 13.64% herbal on day 1,% comparison,69.2% vs 45.5% vs 13.6%,,,False
+Embase_0618,"Herbal concoction pre-hospital care and shock at presentation (TM as exposure, not determinant of use)",Herbal concoction vs 'Others' pre-hospital care (ref),AOR,1.46,0.12-17.41,0.764,True
+Embase_1077,Child age and alcohol-based herbal concoction as poisoning agent,<1 y 5/8 (62.5%) vs 1-5 y 2/53 (3.8%) vs >5 y 9/20 (45.0%),% comparison,infants more likely,,<0.001 (Fisher),False
+Embase_1152,Belief in alternative medicine,47/160 (29.4%) believed; mortality 4.3% vs 2.7%,% comparison,2/47 vs 3/113 died,,0.631,False
+EuropePMC_0028,Use of herbs (outcome: AKI occurrence),yes vs no,OR,5.077,2.279-11.307,<0.001,True
+GoogleScholar_0040,Maternal education,secondary or below vs above secondary,AOR,2.276,1.397-3.707,0.01,True
+GoogleScholar_0040,Maternal education,secondary or below 56.1% vs above secondary 36.4%,chi-square,11.630,,0.001,False
+GoogleScholar_0040,Mother's age,<30 vs >=30,AOR,0.914,0.569-1.740,0.538,True
+GoogleScholar_0040,Child's age,<6 months vs >=6 months,AOR,1.283,0.792-2.080,0.311,True
+GoogleScholar_0040,Birth order,first vs others,AOR,0.937,0.560-1.567,0.803,True
+GoogleScholar_0040,Donated breast milk for others' eye problems,donors vs non-donors,chi-square,24.836,,0.001,False
+PubMed_0063,Provider type attended,PHC vs CORP (among home-treated: 26/116 vs 22/103),AOR,1.1,0.5-2.2,0.86,True
+PubMed_0064,"female caregiver (outcome: health facility use, not TM)",female vs male,AOR,3.32,1.29-8.54,0.013,True
+PubMed_0064,urban residence (outcome: health facility use),urban vs rural,AOR,4.25,1.72-10.48,0.002,True
+PubMed_0064,distance <5 km (outcome: health facility use),<5 km vs >=5 km,AOR,3.38,1.03-11.07,0.044,True
+PubMed_0064,good malaria knowledge (outcome: health facility use),good vs poor,AOR,4.16,1.61-10.77,0.003,True
+PubMed_0070,Frequent media exposure,frequent vs no frequent exposure (traditional medicine vs other sources),AOR,1.190,,not significant (reported as p > 0.001),True
+PubMed_0070,Frequent media exposure,service type by media exposure; traditional medicine users 68.2% no frequent exposure vs 31.8% frequent,chi-square,chi2(4)=0.508,,not significant,False
+PubMed_0079,Frequency of SCC in past 12 months (herbal use),<=5 / 6-10 / 11-15 crises; users 58%/39%/3% vs non-users 78%/17%/5%,chi-square,5.6 (df 2),,0.05,False
+PubMed_0079,Age at initial diagnosis (prayer),categories birth to 16+ years,chi-square,11.2 (df 4),,0.02,False
+PubMed_0079,Religion (prayer),Christian 56% of users vs 34% of non-users,chi-square,7.9 (df 2),,0.02,False
+PubMed_0079,Sex (any NPI use),female vs male,chi-square,9.2 (df 1),,0.002,False
+PubMed_0182,ARI vs non-ARI acute illness,2.4% vs 0.8% (home traditional medicine),% comparison,2.4 vs 0.8,,0.163,False
+PubMed_0192,Caregiver education,"koranic/no education vs tertiary: use of non-antimalarial drugs (includes antibiotics, agbo, prayers) as treatment",OR,12.98,,0.0001,False
+PubMed_0192,Caregiver education,primary/secondary vs tertiary: use of non-recommended drugs,OR,10.75,,0.001,False
+PubMed_0192,Caregiver education,education level vs most preferred drug choice,chi-square,55.41,,<0.0001,False
+PubMed_0219,Caregiver education,"Unorthodox first point of care: uneducated 2/2, primary 5/26, secondary 6/28, tertiary 2/39",% comparison,"uneducated 100%, primary 19.2%, secondary 21.4%, tertiary 5.1% (computed within group)",,,False
+PubMed_0275,SCD vs non-SCD chronic illness,Faith-based centres 24.5% vs 9.0-10.0%,chi-square,,,0.007,False
+PubMed_0275,SCD vs non-SCD chronic illness,Traditional care 9.1% vs 5.5%,% comparison,9.1% vs 5.5%,,0.437,False
+PubMed_0275,"No health insurance (NHIS) - poor HSB among SCD (poor HSB = any non-hospital care incl. patent medicine shops, faith-based and traditional centres)",Not enrolled vs enrolled,OR,18.38,4.41-76.57,<0.0001,True
+PubMed_0275,No VOC in preceding year - poor HSB among SCD (composite incl. patent medicine shops),No VOC vs VOC,OR,0.085,0.028-0.258,<0.0001,True
+PubMed_0275,Low social class - poor HSB among SCD (composite),Lower vs middle/upper,OR,1.488,0.601-3.683,0.39,True
+PubMed_0295,Residence,rural 2/258 (0.8%) vs urban 8/183 (4.4%) (place-of-care distribution),chi-square,36.5 (for whole place-of-care table),,<0.01,False
+PubMed_0305,Previous jaundiced child (outcome: preference for health facility treatment),yes vs no,AOR,10.04,5.73-17.60,,True
+PubMed_0305,Antenatal care (outcome: preference for facility),>=4 vs 0 visits,AOR,2.97,1.43-6.15,,True
+PubMed_0305,Source of information (outcome: preference for facility),health worker vs others,AOR,2.33,1.30-4.17,,True
+PubMed_0305,Ethnicity (outcome: preference for facility),Hausa-Fulani vs others,AOR,0.36,0.14-0.96,,True
+PubMed_0401,Ethnicity,Yoruba among CAM users 65.31% vs non-users 30.43% (all ages),% comparison,65.3% vs 30.4%,,<0.001,False
+PubMed_0401,Religion,Christian among CAM users 64.73% vs non-users 17.39% (all ages),% comparison,64.7% vs 17.4%,,<0.001,False
+PubMed_0401,Age,>18 years among CAM users 45.76% vs non-users 52.17%,% comparison,45.8% vs 52.2%,,0.658,False
+PubMed_0401,"Gender, education, haemoglobinopathy, crisis type",CAM users vs non-users,% comparison,not significant,,>0.05,False
+PubMed_0403,Delayed presentation (>6 days) by first point of care,First presented to TBS/herbalist vs hospital,chi-square,,,<0.036,False
+PubMed_0403,History of trauma,5/7 children with trauma history presented first to TBS,% comparison,5/7 (71.4%),,0.091,False
+PubMed_0440,Household head education,postsecondary or higher vs lower,AOR,0.39,0.26-0.59 (99% CI),,True
+PubMed_0440,BCG vaccination,received vs not,AOR,0.46,0.29-0.72 (99% CI),,True
+PubMed_0440,Birth certificate,has vs not,AOR,0.56,0.42-0.75 (99% CI),,True
+PubMed_0440,Cooking fuel,other than charcoal/wood vs charcoal/wood,AOR,0.63,0.43-0.92 (99% CI),,True
+PubMed_0440,Mother's last delivery attended by traditional practitioner,yes vs no,OR,1.86,1.24-2.48 (99% CI),,False
+PubMed_0440,Mother's education,trend none to higher,chi-square,77.2 (MH trend),,,False
+PubMed_0450,Caregiver education,"traditional/spiritual first: none 14%, primary 2%, secondary 0%, tertiary 0%",chi-square,,,0.001,False
+PubMed_0450,Residence,rural 7% vs semi-urban 0%,chi-square,,,0.04,False
+PubMed_0450,Socioeconomic class,"lower 7%, middle 2%, upper 0%",chi-square,,,0.34,False
+PubMed_0450,Number of children,"0-4: 4%, >4: 6%",chi-square,,,0.76,False
+PubMed_0469,Reason for preferring herbal over orthodox,cheaper cost: herbal-preferring 33.0% vs orthodox-preferring 4.5%,% comparison,33.0% vs 4.5%,,<0.001,False
+PubMed_0469,Reason for preferring herbal over orthodox,ready availability: 40.0% vs 12.2%,% comparison,40.0% vs 12.2%,,<0.001,False
+PubMed_0469,Reason for preferring herbal over orthodox,popular use in community: 2.5% vs 0.2%,% comparison,2.5% vs 0.2%,,0.023,False
+PubMed_0481,Maternal education,"tertiary 8/42 (19.0%) vs primary/secondary 16/56 (28.6%), herb/drug use combined",chi-square,1.17,,0.278,False
+PubMed_0485,state,Sokoto 3.1% vs Bauchi 1.7% (among care-seekers),chi-square,,,0.26,False
+PubMed_0516,CHW intervention intensity (2011),"control vs low vs high intensity, fever/cough TM/herbs 18.3% vs 26.5% vs 23.9%",% comparison,F=0.596,,0.531,True
+PubMed_0516,CHW intervention intensity (2011),"control vs low vs high intensity, diarrhoea TM/herbs 18.6% vs 29.5% vs 24.6%",% comparison,F=1.164,,0.326,True
+PubMed_0548,Socioeconomic class,"Native concoction: upper 0/39, middle 7/76, lower 8/32",chi-square,type of pre-hospital intervention differed by class,,0.008,False
+PubMed_0563,maternal age,age groups 16-20 to >=36 (non-beneficial 93.7% to 66.0%),chi-square,11.31 (df 4),,0.023,False
+PubMed_0563,maternal education,at most secondary 83.0% vs tertiary 69.7% non-beneficial,OR,"0.471 (beneficial care, binary logistic)",,0.029,True
+PubMed_0563,infant sex,male 74.8% vs female 83.8% non-beneficial,OR,1.724,,0.013,True
+PubMed_0563,place of delivery,non-orthodox 93.7% vs orthodox 76.8% non-beneficial,OR,4.472,,0.701,True
+PubMed_0563,"socioeconomic class, parity, tribe",lower vs upper/middle; >=5 vs 1-4; Bini vs non-Bini,OR,1.407; 1.001; 0.968,,0.160; 0.753; 0.720,True
+PubMed_0566,Maternal age,<=30 vs >30 years (as reported; older mothers more likely),RR,0.737,0.548-0.990,0.033,False
+PubMed_0566,Marital status,married vs not married,RR,0.793,0.545-1.255,0.265,False
+PubMed_0566,Maternal education,uneducated vs educated (61.4% vs 20.9%),RR,2.936,2.243-3.776,<0.001,False
+PubMed_0566,Occupation,fishing vs others (39.1% vs 24.0%),RR,1.629,1.198-2.232,0.001,False
+PubMed_0567,health education intervention,Experimental pre 10.0% vs post 6.8%,% comparison,-3.2%,,0.65,False
+PubMed_0575,Mortality,herbal concoction use associated with death (3 of 5 deaths occurred in the 6 herbal users),chi-square,reported as significant (Fisher's exact),,<0.05 (exact value not in text),False
+PubMed_0697,Maternal education and age,self-medication extent,chi-square,not significant,,0.073 / 0.055,False
+PubMed_0727,Residence,traditional healer first action: rural 10/124 (8.1%) vs urban 2/276 (0.7%),% comparison,8.1% vs 0.7%,,<0.001 (Fisher),False
+PubMed_0727,Residence,native concoction at home: rural 4/72 (5.6%) vs urban 6/200 (3.0%),% comparison,5.6% vs 3.0%,,0.256,False
+PubMed_0727,Residence,home drugs from traditional healer: rural 5/72 (6.9%) vs urban 3/200 (1.5%),% comparison,6.9% vs 1.5%,,0.032,False
+PubMed_0795,maternal age,young (<=30) vs older (>30): self-medication with herbs,% comparison,53.6% (45/84) vs 65.7% (67/102),,not reported,False
+PubMed_0795,maternal age,young vs older: visit herbalist if worse,% comparison,7.1% (6/84) vs 47.1% (48/102),,not reported,False
+PubMed_0795,previous child mortality,yes vs no: self-medication with herbs,% comparison,69.4% (25/36) vs 58.0% (87/150),,not reported,False
+PubMed_0795,previous child mortality,yes vs no: visit herbalist,% comparison,63.9% (23/36) vs 20.7% (31/150),,not reported,False
+GIM_0002,Caregiver education,"Any herbal home treatment: no formal 6/15 (40.0%), primary 2/27 (7.4%), secondary 19/100 (19.0%), tertiary 15/58 (25.9%); overall mode of home treatment by education",chi-square,"63.277 (df 18, all treatment modes)",,<0.001,False
+GIM_0005,Child age (enema practice),<12 months vs 12-59 months,AOR,0.4,0.212-0.765,0.005,True
+GIM_0005,Maternal ethnicity (enema practice),Akwa Ibom indigenes vs non-indigenes,AOR,9.4,4.024-22.104,<0.001,True
+GIM_0005,Place of delivery (enema practice),non-facility 80.9% vs facility 62.0%,chi-square,8.051,,0.004,False
+GIM_0005,Immunization point (enema practice),PHC West Itam 72.3% vs UUTH 55.7%,chi-square,6.732,,0.014,False
+GIM_0013,Education,"herbalist only: primary 14.4%, secondary 9.9%, tertiary 7.1%",chi-square,significant,,<0.05,False
+GIM_0013,Occupation,herbal use differed by occupation (teachers 15.4% in Owerri),chi-square,significant,,<0.05,False
+GIM_0013,LGA,herbalist only: Owerri 11.9% vs Orlu 7.1%,% comparison,,,,False
+GIM_0044,Primary caregiver type,father vs mother,AOR,1.698,1.180-2.443,0.004,True
+GIM_0044,Caregiver education,no formal vs post-secondary,AOR,1.498,1.127-1.990,0.005,True
+GIM_0044,Caregiver also uses CAM,yes vs no,AOR,33.79,8.049-141.856,<0.001,True
+GIM_0044,Child sex,male vs female,AOR,2.142,1.230-3.730,0.007,True
+GIM_0044,Residence,rural vs urban,AOR,1.158,0.668-2.008,0.60,True
+GIM_0044,Marital status,with partner vs without,AOR,0.664,0.372-1.185,0.17,True
+GoogleScholar_0011,Maternal age,Use rises from 63-70% (<35 y) to 84.8-90.0% (>=35 y),chi-square,23.8,,<0.001,False
+GoogleScholar_0011,Maternal education,"None 98.0%, primary 77.5%, secondary 77.4%, tertiary 55.7%",chi-square,41.52,,<0.001,False
+GoogleScholar_0011,Religious denomination,"Anglican 88.8%, Pentecostal 67.2%, Catholic 72.7%",chi-square,15.2,,0.007,False
+GoogleScholar_0011,Marital status,"Married 73.0%, cohabiting 48.4%, widowed 94.4%",chi-square,20.9,,0.001,False
+GoogleScholar_0011,Occupation,"Traders 91.2%, farmers 94.4%, civil servants 43.1%, doctors/teachers 0%",chi-square,131.8,,<0.001,False
+GoogleScholar_0011,Tribe,"Ijaw 72.1%, Igbo 68.0%",chi-square,6.7,,0.25,False
+GoogleScholar_0011,Number of living children,1 child 54.5% to >4 children 92.1%,chi-square,69.89,,<0.001,False
+GoogleScholar_0014,Perceived disease aetiology,correlation with ever used herbal medicine,% comparison,Spearman rho 0.700,,<0.01,False
+GoogleScholar_0014,Religious affiliation,correlation with ever used herbal medicine,% comparison,Spearman rho 0.646,,<0.01,False
+GoogleScholar_0015,TM use frequency and child mortality,linear regression,% comparison,"R=0.873, R2=0.763, beta=0.873",,<0.001,False
+GoogleScholar_0019,Herbal remedy use vs malaria positivity (microscopy),used vs did not use herbal remedy,AOR,0.91,0.62-1.34,0.67,True
+GoogleScholar_0019,Herbal remedy use vs malaria positivity,used vs did not use herbal remedy,OR,1.07,0.78-1.48,0.672,False
+GoogleScholar_0025,maternal education,no formal schooling/primary 100% vs secondary 93% users (2-week use),chi-square,25.470 (df 9),,0.002,False
+GoogleScholar_0025,parity (number of under-5 children),one child 119/134 (88.8%) vs two or more 266/266 (100%),chi-square,30.936 (df 3),,<0.001,False
+GoogleScholar_0025,number of under-5 children,>1 vs 1 under-5 child,OR,"2.5 (logistic regression; abstract, OCR partly illegible)",lower bound 2.3 (upper bound illegible),<0.05,True
+GoogleScholar_0025,perception of herbal remedies,negative 240/255 vs positive 145/145,chi-square,8.562,,0.003,False
+GoogleScholar_0025,knowledge of herbal remedies,poor 320/335 vs good 65/65,chi-square,3.024,,0.082,False
+GoogleScholar_0034,child sex,male 95.2% vs female 77.3%,chi-square,6.19,,0.01,False
+GoogleScholar_0034,seizure frequency,"none 70.4%, 1-5/month 86.4%, >5/month 97.6%",chi-square,12.05,,0.002,False
+GoogleScholar_0034,anti-seizure medication,polytherapy 97.1% vs monotherapy 78.4%,chi-square,6.07,,0.01,False
+GoogleScholar_0034,duration of epilepsy,"<1 y 91.7%, 1-5 y 86.5%, >5 y 65.2%",chi-square,8.42,,0.02,False
+GoogleScholar_0034,comorbidity,present 91.1% vs absent 76.9%,chi-square,4.03,,0.04,False
+GoogleScholar_0034,caregiver education,"primary/none 64.3%, secondary 90.7%, tertiary 84.3%",chi-square,5.56,,0.06,False
+GoogleScholar_0034,monthly income,">100,000 naira 89.8% vs <=100,000 77.6%",chi-square,3.02,,0.08,False
+GoogleScholar_0034,family history of epilepsy,yes 91.7% vs no,chi-square,2.21,,0.13,False
+GoogleScholar_0054,"Caregiver education (outcome: appropriate home care, i.e. no herbs/teething mixture)",high vs low,AOR,2.9,1.5-5.5,,True
+GoogleScholar_0054,Knowledge of febrile illness (outcome: appropriate home care),good vs poor,AOR,1.2,1.1-1.4,,True
+GoogleScholar_0054,Education and inappropriate home care,low 53/152 vs high 16/103,chi-square,,,<0.001,False
+GoogleScholar_0075,"Place of residence (TEM use any, not child-specific)",rural 81.8% vs urban 64.4%,chi-square,10.66,,0.01,False
+GoogleScholar_0075,Occupation (TEM use any),farming/trading higher than civil servant,chi-square,23.08,,0.00,False
+GoogleScholar_0075,Household income (TEM use any),income categories,chi-square,21.29,,0.01,False
+GoogleScholar_0075,Education (TEM use any),education levels,chi-square,4.16,,0.24,False
+GoogleScholar_0075,Age group (TEM use any),age groups,chi-square,9.72,,0.45,False
+GoogleScholar_0075,Health insurance (TEM use any),yes vs no,chi-square,0.83,,0.36,False
+GoogleScholar_0120,community/socioeconomic status,"Dorayi (low SES, high density) vs Nasarawa GRA (high SES)",% comparison,15.3% vs 13.3%,,not tested,False
+GoogleScholar_0157,Maternal education,"harmful substance use (toothpaste, methylated spirit, herbal solution or combinations): none 62.5%, primary 53.3%, secondary 28.6%, tertiary 14.3%",chi-square,16.847,,0.001,False
+GoogleScholar_0157,Marital status,harmful substance use by marital status,chi-square,4.982,,0.083,False
+GoogleScholar_0157,Religion,Christianity 29.0% vs Islam 28.6% harmful use,chi-square,0.036,,0.849,False
+GoogleScholar_0206,Maternal diarrhoea knowledge score by place of treatment,Mean knowledge: traditional healer users 27.57 vs overall 30.48 (health centre 32.60),% comparison,"F=3.838 (df 6,390)",,0.001,False
+GoogleScholar_0206,"Knowledge grade by place visited (incl. traditional healer: poor 3, fair 7, good 4)",Poor/fair/good knowledge,chi-square,6.356 (df 8),,0.607,False
+GoogleScholar_0240,Education,"herbal use: primary 26, none 21, secondary 7, tertiary 0",chi-square,,,<0.05,False
+GoogleScholar_0294,Herbal medication ingestion and proteinuria,proteinuria present 45/118 (38.1%) vs absent 146/288 (50.7%),chi-square,,,0.021,False
+OpenAlex_grey_0008,Education level,education categories vs past use of decoction for children,chi-square,,,<0.05,False
+OpenAlex_grey_0008,"Age, religion, income, employment",vs knowledge / frequency of use,chi-square,,,>0.05,False
+PubMed_0108,Highest level of education,"per unit increase, CAM utilisation score",other: multiple linear regression B,-0.104,,0.014,True
+PubMed_0108,Religion,"per unit increase, CAM utilisation score",other: multiple linear regression B,-0.128,,0.032,True
+PubMed_0108,Ethnicity,"per unit increase, CAM utilisation score",other: multiple linear regression B,0.055,,0.280,True
+PubMed_0108,Sociodemographic characteristics (composite),correlation with CAM utilisation,other: Pearson r,-0.124,,0.024,False
+PubMed_0524,Social class,Upper vs lower (inverse relationship),OR,0.354,1.087-2.489 (as printed; inconsistent with OR),0.043,False
+PubMed_0524,Mother's education,Below secondary vs secondary or higher,OR,2.618,1.173-5.844,0.013,False
+PubMed_0524,Father's education,Lower vs higher,OR,2.065,0.84-5.061,0.081,False
+PubMed_0524,Type of epilepsy,Partial vs generalized,OR,1.655,0.608-4.508,0.229,False
+PubMed_0524,Child sex,Male vs female,OR,0.834,0.433-1.606,0.354,False
+PubMed_0524,Continued CAM with AED by perceived CAM efficacy,Perceived benefit vs none,OR,11.040,3.497-34.848,<0.001,False
+PubMed_0538,"Gender, age, child and parental education, residence",first point of contact,chi-square,not significant (values not reported),,>0.05,False
+PubMed_0608,"SES quintile (children, traditional provider)",Q1 poorest 3 (2%) to Q4 1 (1%); Q1:Q4 ratio 2,chi-square,1.5 (trend),,0.22,False
+PubMed_0608,"SES (adults, traditional provider, for context)",Q1 13% vs Q4 7%,chi-square,5.15 (trend),,0.02,False
+PubMed_0611,Caregiver sex,female 5.8% vs male 4.4%,chi-square,4.02,,0.045,False
+PubMed_0620,Maternal education (for combined home remedy use),high (senior secondary/tertiary) vs low,RR,0.7,0.56-0.89,significant,False
+PubMed_0620,Paternal education (combined home remedies),high vs low,RR,0.8,0.67-1.09,NS,False
+PubMed_0620,Socioeconomic status (combined home remedies),low (IV-V) vs others,RR,1.1,0.89-1.38,NS,False
+PubMed_0620,Place of delivery (combined home remedies),orthodox vs non-orthodox,RR,1.0,0.80-1.28,NS,False
+PubMed_0654,Guardian occupational (economic) group,ways of managing pupils' eye disease,chi-square,,,0.959,False
+PubMed_0654,Awareness of eye care specialists,ways of managing pupils' eye disease,chi-square,,,0.952,False
+PubMed_0654,Views on importance of normal vision,ways of managing pupils' eye disease,chi-square,,,0.940,False
+PubMed_0761,Ethnicity,Yoruba 12/16 (75%) vs Hausa/Fulani 1/20 (5%) consulted traditional healers,% comparison,75.0% vs 5.0%,,,False
+PubMed_0783,"Maternal education and first line of action (all action types, not TM-specific)",No formal/primary/secondary/tertiary,chi-square,21.01 (df 3),,<0.05,False

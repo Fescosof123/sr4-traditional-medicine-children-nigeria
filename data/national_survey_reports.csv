@@ -1,0 +1,16 @@
+rec_id,report,year_published,decision,reason,measure,condition,denominator_definition,percent,weighted_n,source_location,note
+NationalSurvey_01,NDHS 1990 (FR27),1992,EXCLUDE,FT1,,,,,,,Published before 2000
+NationalSurvey_02,NDHS 1999 (FR115),2000,EXCLUDE,FT5,,,,,,,No separate traditional practitioner or herbal figure for children in the report tables
+NationalSurvey_03,NDHS 2003 (FR148),2004,EXCLUDE,FT5,,,,,,,Traditional practitioner not tabulated separately for child illness; home remedies combined with other treatments
+NationalSurvey_04,NDHS 2008 (FR222),2009,EXCLUDE,FT5,,,,,,,Traditional practitioner not tabulated separately for child illness; home remedies combined with other treatments
+NationalSurvey_05,NDHS 2013 (FR293),2014,INCLUDE,,Advice or treatment sought from a traditional practitioner,Fever,Children under 5 with fever in the 2 weeks before the survey,3.7,3632,Table 12.11,Among care seekers 4.9% (n=2685)
+NationalSurvey_06,NDHS 2018 (FR359),2019,INCLUDE,,Advice or treatment sought from a traditional practitioner,ARI symptoms,Children under 5 with ARI symptoms in the 2 weeks before the survey,1.6,814,Table 10.6,Among care seekers 2.1% (n=618); same survey as GoogleScholar_0031
+NationalSurvey_06,NDHS 2018 (FR359),2019,INCLUDE,,Advice or treatment sought from a traditional practitioner,Diarrhoea,Children under 5 with diarrhoea in the 2 weeks before the survey,2.8,3950,Table 10.11,Among care seekers 4.1% (n=2669)
+NationalSurvey_06,NDHS 2018 (FR359),2019,INCLUDE,,Advice or treatment sought from a traditional practitioner,Fever,Children under 5 with fever in the 2 weeks before the survey,1.0,7466,Table 12.12,Among care seekers 1.4% (n=5507)
+NationalSurvey_07,NDHS 2024 (FR395),2025,INCLUDE,,Advice or treatment sought from a traditional practitioner,ARI symptoms,Children under 5 with ARI symptoms in the 2 weeks before the survey,6.4,589,Table 10.7,Among care seekers 9.8% (n=387)
+NationalSurvey_07,NDHS 2024 (FR395),2025,INCLUDE,,Advice or treatment sought from a traditional practitioner,Diarrhoea,Children under 5 with diarrhoea in the 2 weeks before the survey,4.0,3833,Table 10.14,Among care seekers 6.3% (n=2426)
+NationalSurvey_07,NDHS 2024 (FR395),2025,INCLUDE,,Advice or treatment sought from a traditional practitioner,Fever,Children under 5 with fever in the 2 weeks before the survey,1.8,4164,Table 12.11,Among care seekers 2.9% (n=2568)
+NationalSurvey_08,MICS 2007,2008,NOT RETRIEVED,,,,,,,,Full report not located (the listed UNICEF link opens the MICS 2011 report)
+NationalSurvey_09,MICS 2011 (Main Report),2013,INCLUDE,,Given home remedy or herbal medicine,Diarrhoea,Children 0-59 months with diarrhoea in the last 2 weeks,12.0,3480,Table CH.6,
+NationalSurvey_10,MICS 2016-17 (Survey Findings Report),2017,INCLUDE,,Given home remedy or herbal medicine,Diarrhoea,Children 0-59 months with diarrhoea in the last 2 weeks,0.0,4009,Table CH.8,0.0% in every subgroup while 'Other' is 6.5%; probable tabulation problem; reported but not interpreted
+NationalSurvey_11,MICS 2021 (Survey Findings Report),2022,INCLUDE,,Given home remedy or herbal medicine,Diarrhoea,Children 0-59 months with diarrhoea in the last 2 weeks,12.3,3466,Table TC.3.4,
